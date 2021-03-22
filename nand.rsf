@@ -1,0 +1,26 @@
+;----------------------------------------------------------------------------
+; @(#)$CDS: assura version av4.1:Production:dfII6.1.7-64b:IC6.1.7-64b.500.12 05/03/18 21:39 (sjfhw625) $
+; sub-version 4.1_USR5_HF15
+;----------------------------------------------------------------------------
+
+
+;----------------------------------------------------------------------------
+; avParameter Section
+; Created by the Assura UI
+;----------------------------------------------------------------------------
+
+avParameters(
+  ?inputLayout ( "df2" "simulation" )
+  ?cellName "nand"
+  ?viewName "layout"
+  ?technology "gpdk180"
+  ?techLib "/home/install/FOUNDRY/analog/180nm/assura_tech.lib"
+  ?avrpt t
+  ?dbuPerUU 2000.0
+  ?flagNon45 t
+  ?flagOffGrid (0.005 1.0)
+  ?joinPins top
+  ?overwrite t
+  ?textPriOnly nil
+  ?userUnits "micron"
+)

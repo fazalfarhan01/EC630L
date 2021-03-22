@@ -1,0 +1,76 @@
+*
+*
+*
+*                       LINUX           Mon Mar 22 11:13:00 2021
+*
+*
+*
+*  PROGRAM  advgen
+*
+*  Name           : advgen - Quantus QRC - (64-bit)
+*  Version        : 18.1.2-s132
+*  Build Date     : Thu May 10 00:43:37 PDT 2018
+*
+*  HSPICE LIBRARY
+*
+*!LENGTH_UNITS METERS
+*
+*
+*
+
+*
+.SUBCKT inverter Vdd Vss Vin Vout
+*
+*
+*  caps2d version: 10
+*
+*
+*       TRANSISTOR CARDS
+*
+*
+MavD21_1	Vout#2	Vin#4	Vss#3	Vss#2	nmos#20ivpcell#20gpdk180
++ L=1.8e-07	W=2e-06
++ AD=1.2e-12	AS=1.2e-12	PD=5.2e-06	PS=5.2e-06
++ simW=2e-06 fw=2e-06
+MavD27_1	Vout#3	Vin#2	Vdd#3	Vdd#2	pmos#20ivpcell#20gpdk180
++ L=1.8e-07	W=2e-06
++ AD=1.2e-12	AS=1.2e-12	PD=5.2e-06	PS=5.2e-06
++ simW=2e-06 fw=2e-06
+*
+*
+*       RESISTOR AND CAP/DIODE CARDS
+*
+Rf1	Vin#1	Vin	    5.0375	$mt1	$X=0.2745 $Y=3.495
+Rf2	Vdd	Vdd#1	    0.1243	$mt1	$X=3.4 $Y=6.84
+Rf3	Vdd#1	Vdd#2	    7.9215	$mt1	$X=2.28 $Y=6.84
+Rf4	Vdd#1	Vdd#3	    2.1951	$mt1	$X=3.105 $Y=6.25
+Rf5	Vout	Vout#1	    0.9370	$mt1	$X=5.4625 $Y=3.495
+Rf6	Vout#1	Vout#2	    2.1462	$mt1	$X=3.885 $Y=3.0725
+Rf7	Vout#1	Vout#3	    2.1012	$mt1	$X=3.885 $Y=3.8275
+Rf8	Vss	Vss#1	    0.1243	$mt1	$X=3.4 $Y=0.15
+Rf9	Vss#1	Vss#2	    7.6768	$mt1	$X=2.58 $Y=0.15
+Rf10	Vss#1	Vss#3	    2.1501	$mt1	$X=3.105 $Y=0.65
+Rg1	Vin#2	Vin#3	   17.0046	$poly	$X=3.495 $Y=3.748
+Rg2	Vin#3	Vin#1	  122.3713	$poly	$X=2.0025 $Y=3.495
+Rg3	Vin#3	Vin#4	   24.5046	$poly	$X=3.495 $Y=3.1525
+*
+*       CAPACITOR CARDS
+*
+*
+C1	Vdd	Vss	cmodel	3.94531E-16	$X=5.1915 $Y=3.499
+C2	Vin	Vss	cmodel	4.81896E-17	$X=0.6125 $Y=3.21
+C3	Vout	Vss	cmodel	1.93224E-16	$X=5.918 $Y=2.496
+C4	Vin#2	Vss	cmodel	1.70463E-16	$X=3.976 $Y=3.5755
+C5	Vin#4	Vss	cmodel	1.83755E-16	$X=3.989 $Y=1.4065
+C6	Vin#1	Vss	cmodel	2.66966E-16	$X=2.5605 $Y=2.174
+C7	Vout#2	Vss	cmodel	3.01124E-16	$X=4.74 $Y=0.7795
+C8	Vdd#2	Vss	cmodel	4.41738E-16	$X=5.1925 $Y=0.157
+C9	Vout#3	Vss	cmodel	2.86617E-16	$X=4.7345 $Y=1.803
+C10	Vdd#3	Vss	cmodel	2.1985E-16	$X=4.485 $Y=1.802
+C11	Vin#3	Vss	cmodel	1.87611E-16	$X=3.3265 $Y=2.6575
+C12	Vdd#1	Vss	cmodel	1.33953E-16	$X=3.886 $Y=4.2005
+C13	Vout#1	Vss	cmodel	1.74196E-16	$X=4.941 $Y=2.1605
+*
+*
+.ENDS inverter
+*

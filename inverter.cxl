@@ -1,0 +1,20 @@
+C nmos(MOS) nmos(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C pmos(MOS) pmos(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C "inverter schematic simulation" "inverter layout simulation"
+N Vin Vin
+N Vdd Vdd
+N Vss Vss
+N Vout Vout
+I PM0 avD27_1
+I NM0 avD21_1
+

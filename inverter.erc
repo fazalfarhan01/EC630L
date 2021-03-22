@@ -1,0 +1,11 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'inverter layout simulation':
+  info: Assign pin label "Vin" at (0.1500, 3.4950) to layer `M1term'.
+  info: Assign pin label "Vss" at (3.4950, 0.1500) to layer `M1term'.
+  info: Assign pin label "Vdd" at (3.4950, 6.8400) to layer `M1term'.
+  info: Assign pin label "Vout" at (6.8400, 3.4950) to layer `M1term'.
+
+***** End of Label Report *****
+
