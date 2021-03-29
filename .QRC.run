@@ -3,4 +3,4 @@
 # THE RUN FILE created by Cadence Extraction Quantus QRC UI Version 18.12-s132
 #--------------------------------------------------------------------------------------
 
-qrc  -log_file /home/ec03/Desktop/01JST18EC055/qrc.inverter.log -cmd /home/ec03/Desktop/01JST18EC055/qrc.inverter.ccl 
+qrc  -log_file /home/ec03/Desktop/01JST18EC055/qrc.nor.log -cmd /home/ec03/Desktop/01JST18EC055/qrc.nor.ccl 

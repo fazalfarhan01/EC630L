@@ -1,0 +1,23 @@
+C nmos(MOS) nmos(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C pmos(MOS) pmos(MOS)
+N D D
+N G G
+N S S
+N B B
+
+C "nand schematic simulation" "nand layout simulation"
+N A A
+N B B
+N Vout Vout
+N Vdd Vdd
+N Vss Vss
+I PM1 avD27_2
+I PM0 avD27_1
+I NM1 avD21_2
+I NM0 avD21_1
+

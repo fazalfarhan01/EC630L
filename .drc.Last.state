@@ -30,7 +30,7 @@ vuiDRCFormTable = '(
 	additionalFunctionsButton  nil
 	limitDRCswitcher  nil
 	library  "simulation"
-	cell  "nand"
+	cell  "nor"
 	view  "layout"
 	saveExtracted  nil
 	extractedView  "drc_extracted"

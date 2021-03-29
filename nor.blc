@@ -1,0 +1,4 @@
+"pmos(MOS)" "pmos(MOS)"
+"nmos(MOS)" "nmos(MOS)"
+"nor layout simulation" "nor schematic simulation" "nmos(MOS)" "pmos(MOS)"
+Devices filtered from layout

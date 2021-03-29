@@ -1,0 +1,12 @@
+
+***** Begin Label Report *****
+
+ Label in cell 'nand layout simulation':
+  info: Assign pin label "Vss" at (4.9150, 2.0300) to layer `M1term'.
+  info: Assign pin label "Vout" at (2.6250, 4.9150) to layer `M1term'.
+  info: Assign pin label "A" at (2.5200, 5.7500) to layer `M1term'.
+  info: Assign pin label "B" at (7.7150, 5.6150) to layer `M1term'.
+  info: Assign pin label "Vdd" at (4.9150, 9.6800) to layer `M1term'.
+
+***** End of Label Report *****
+

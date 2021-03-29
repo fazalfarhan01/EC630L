@@ -1,6 +1,6 @@
 \o Program:		@(#)$CDS: libManager version 6.1.7 - CAT35 03/14/2018 00:53 (sjfhw314) $
 \o Sub version:		sub-version  s191 
-\o Arguments:		-unmapped -mpssession virtuoso4067 -mpshost cad03 
+\o Arguments:		-unmapped -mpssession virtuoso19898 -mpshost cad03 
 \o Working Directory:	cad03:/home/ec03/Desktop/01JST18EC055
 \o 64-bit offsets
 \o Qt version: 		4.8.5
@@ -13,254 +13,103 @@
 \a nrSetCurrentWindow(cdsLibManager)
 \o Library Manager customization server connected.
 \a nrResizeWindow(cdsLibManager list(0 25 1596 820))
-\a cdsLibManager->FileNewLibButton->value = t
-\a nrSetWindowVisibility(NewLibShell "show")
-\a NewLibShell->QLineEdit2->value = "/home/ec03/Desktop/01JST18EC055/"
-\a nrSetCurrentWindow(NewLibShell)
-\a nrSetCurrentWindow(NewLibShell->subDialog)
-\a nrResizeWindow(NewLibShell list(545 138 507 559))
-\a NewLibShell->newLibNameText->value = "digital"
-\a NewLibShell->newLibOKButton->value = t
-\a NewLibShell->subDialog->value = '("/home/ec03/Desktop/01JST18EC055" "/home/ec03/Desktop/01JST18EC055/")
-\o ERROR (CLM-287): A library by that name already exists.
-\a nrSetWindowVisibility(errorDialog "show")
-\a nrSetCurrentWindow(errorDialog)
-\a nrResizeWindow(errorDialog list(667 283 262 122))
-\a errorDialog->errorOkButton->value = t
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(NewLibShell)
-\a nrSetCurrentWindow(NewLibShell->subDialog)
-\a NewLibShell->newLibApplyButton->value = t
-\a NewLibShell->subDialog->value = '("/home/ec03/Desktop/01JST18EC055" "/home/ec03/Desktop/01JST18EC055/")
-\o ERROR (CLM-287): A library by that name already exists.
-\a nrSetWindowVisibility(errorDialog "show")
-\a nrSetCurrentWindow(errorDialog)
-\a nrResizeWindow(errorDialog list(667 283 262 122))
-\a errorDialog->errorHelpButton->value = t
-\o Invoking help (libraryExists).
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(NewLibShell)
-\a nrSetCurrentWindow(NewLibShell->subDialog)
-\a NewLibShell->newLibNameText->value = "simulation"
-\a NewLibShell->newLibOKButton->value = t
-\a NewLibShell->subDialog->value = '("/home/ec03/Desktop/01JST18EC055" "/home/ec03/Desktop/01JST18EC055/")
-\a nrSetWindowVisibility(workingDialogForm "show")
-\a nrSetCurrentWindow(workingDialogForm)
-\o Created new library "simulation" at /home/ec03/Desktop/01JST18EC055/simulation.
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrResizeWindow(workingDialogForm list(2 26 300 133))
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a cdsLibManager->libListBox->value = "simulation"
-\a cdsLibManager->libLineEdit->value = "simulation"
-\a cdsLibManager->FileNewCVButton->value = t
-\a nrSetCurrentWindow(cdsLibManager)
-\a cdsLibManager->libListBox->value = nil
-\a cdsLibManager->libLineEdit->value = ""
 \a cdsLibManager->libListBox->value = "simulation"
 \a cdsLibManager->libLineEdit->value = "simulation"
 \a cdsLibManager->cellListBox->value = "inverter"
 \a cdsLibManager->cellLineEdit->value = "inverter"
+\a cdsLibManager->cellListBox->value = "nand"
+\a cdsLibManager->cellLineEdit->value = "nand"
+\a cdsLibManager->cellListBox->value = "nor"
+\a cdsLibManager->cellLineEdit->value = "nor"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->cellListBox->value = "nand"
+\a cdsLibManager->cellLineEdit->value = "nand"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->cellListBox->value = "nor"
+\a cdsLibManager->cellLineEdit->value = "nor"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
 \a cdsLibManager->viewListBox->value = "schematic"
 \a cdsLibManager->viewLineEdit->value = "schematic"
 \a cdsLibManager->cellLineEdit->value = ""
 \a cdsLibManager->cellListBox->value = nil
 \a cdsLibManager->viewLineEdit->value = ""
 \a cdsLibManager->viewListBox->value = nil
-\a cdsLibManager->cellListBox->value = "inverter"
-\a cdsLibManager->cellLineEdit->value = "inverter"
+\a cdsLibManager->cellListBox->value = "nor"
+\a cdsLibManager->cellLineEdit->value = "nor"
 \a cdsLibManager->viewListBox->value = "schematic"
 \a cdsLibManager->viewLineEdit->value = "schematic"
 \a cdsLibManager->viewLineEdit->value = ""
 \a cdsLibManager->viewListBox->value = nil
-\a cdsLibManager->viewListBox->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = "schematic"
-\a cdsLibManager->libListBox->value = nil
-\a cdsLibManager->libLineEdit->value = ""
-\a cdsLibManager->cellListBox->value = nil
-\a cdsLibManager->viewLineEdit->value = ""
-\a cdsLibManager->viewListBox->value = nil
-\a cdsLibManager->cellLineEdit->value = ""
-\a cdsLibManager->libListBox->value = "simulation"
-\a cdsLibManager->libLineEdit->value = "simulation"
-\a cdsLibManager->cellListBox->value = "inverter"
-\a cdsLibManager->cellLineEdit->value = "inverter"
-\a cdsLibManager->viewListBox->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = "schematic"
-\a cdsLibManager->cellLineEdit->value = ""
-\a cdsLibManager->cellListBox->value = nil
-\a cdsLibManager->viewLineEdit->value = ""
-\a cdsLibManager->viewListBox->value = nil
-\a cdsLibManager->cellListBox->value = "inverter"
-\a cdsLibManager->cellLineEdit->value = "inverter"
-\a cdsLibManager->viewListBox->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = ""
-\a cdsLibManager->viewListBox->value = nil
-\a cdsLibManager->viewListBox->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = ""
-\a cdsLibManager->viewListBox->value = nil
-\a cdsLibManager->viewListBox->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = "schematic"
-\a cdsLibManager->libListBox->value = nil
-\a cdsLibManager->libLineEdit->value = ""
-\a cdsLibManager->cellListBox->value = nil
-\a cdsLibManager->viewLineEdit->value = ""
-\a cdsLibManager->viewListBox->value = nil
-\a cdsLibManager->cellLineEdit->value = ""
-\a cdsLibManager->libListBox->value = "simulation"
-\a cdsLibManager->libLineEdit->value = "simulation"
-\a cdsLibManager->cellListBox->value = "inverter"
-\a cdsLibManager->cellLineEdit->value = "inverter"
-\a cdsLibManager->viewListBox->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = "schematic"
-\a cdsLibManager->cellLineEdit->value = ""
-\a cdsLibManager->cellListBox->value = nil
-\a cdsLibManager->viewLineEdit->value = ""
-\a cdsLibManager->viewListBox->value = nil
-\a cdsLibManager->cellListBox->value = "inverter"
-\a cdsLibManager->cellLineEdit->value = "inverter"
-\a cdsLibManager->viewListBox->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = ""
-\a cdsLibManager->viewListBox->value = nil
-\a cdsLibManager->viewListBox->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = ""
-\a cdsLibManager->viewListBox->value = nil
-\a cdsLibManager->viewListBox->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = "schematic"
-\a cdsLibManager->libListBox->value = nil
-\a cdsLibManager->libLineEdit->value = ""
-\a cdsLibManager->cellListBox->value = nil
-\a cdsLibManager->viewLineEdit->value = ""
-\a cdsLibManager->viewListBox->value = nil
-\a cdsLibManager->cellLineEdit->value = ""
-\a cdsLibManager->libListBox->value = "simulation"
-\a cdsLibManager->libLineEdit->value = "simulation"
-\a cdsLibManager->cellListBox->value = "inverter"
-\a cdsLibManager->cellLineEdit->value = "inverter"
-\a cdsLibManager->viewListBox->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = "schematic"
-\a cdsLibManager->cellLineEdit->value = ""
-\a cdsLibManager->cellListBox->value = nil
-\a cdsLibManager->viewLineEdit->value = ""
-\a cdsLibManager->viewListBox->value = nil
-\a cdsLibManager->cellListBox->value = "inverter"
-\a cdsLibManager->cellLineEdit->value = "inverter"
-\a cdsLibManager->viewListBox->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = ""
-\a cdsLibManager->viewListBox->value = nil
-\a cdsLibManager->viewListBox->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = ""
-\a cdsLibManager->viewListBox->value = nil
-\a cdsLibManager->viewListBox->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = "schematic"
-\a cdsLibManager->libListBox->value = nil
-\a cdsLibManager->libLineEdit->value = ""
-\a cdsLibManager->cellListBox->value = nil
-\a cdsLibManager->viewLineEdit->value = ""
-\a cdsLibManager->viewListBox->value = nil
-\a cdsLibManager->cellLineEdit->value = ""
-\a cdsLibManager->libListBox->value = "simulation"
-\a cdsLibManager->libLineEdit->value = "simulation"
-\a cdsLibManager->cellListBox->value = "inverter"
-\a cdsLibManager->cellLineEdit->value = "inverter"
-\a cdsLibManager->viewListBox->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = "schematic"
-\a cdsLibManager->cellLineEdit->value = ""
-\a cdsLibManager->cellListBox->value = nil
-\a cdsLibManager->viewLineEdit->value = ""
-\a cdsLibManager->viewListBox->value = nil
-\a cdsLibManager->cellListBox->value = "inverter"
-\a cdsLibManager->cellLineEdit->value = "inverter"
-\a cdsLibManager->viewListBox->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = ""
-\a cdsLibManager->viewListBox->value = nil
-\a cdsLibManager->viewListBox->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = ""
-\a cdsLibManager->viewListBox->value = nil
-\a cdsLibManager->viewListBox->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = "schematic"
-\a cdsLibManager->libListBox->value = nil
-\a cdsLibManager->libLineEdit->value = ""
-\a cdsLibManager->cellListBox->value = nil
-\a cdsLibManager->viewLineEdit->value = ""
-\a cdsLibManager->viewListBox->value = nil
-\a cdsLibManager->cellLineEdit->value = ""
-\a cdsLibManager->libListBox->value = "simulation"
-\a cdsLibManager->libLineEdit->value = "simulation"
-\a cdsLibManager->cellListBox->value = "inverter"
-\a cdsLibManager->cellLineEdit->value = "inverter"
-\a cdsLibManager->viewListBox->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = "schematic"
-\a cdsLibManager->cellLineEdit->value = ""
-\a cdsLibManager->cellListBox->value = nil
-\a cdsLibManager->viewLineEdit->value = ""
-\a cdsLibManager->viewListBox->value = nil
-\a cdsLibManager->cellListBox->value = "inverter"
-\a cdsLibManager->cellLineEdit->value = "inverter"
-\a cdsLibManager->viewListBox->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = ""
-\a cdsLibManager->viewListBox->value = nil
-\a cdsLibManager->viewListBox->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = ""
-\a cdsLibManager->viewListBox->value = nil
-\a cdsLibManager->viewListBox->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = "schematic"
-\a nrSetCurrentWindow(cdsLibManager)
-\a cdsLibManager->viewListBox->value = "av_extracted"
-\a cdsLibManager->viewLineEdit->value = "av_extracted"
 \o MPS request: edit design
-\a nrListItemAction(cdsLibManager->gdmXTView 0 0)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
-\a nrSetCurrentWindow(cdsLibManager)
+\a nrListItemAction(cdsLibManager->cellListBox 2 0)
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
 \a cdsLibManager->cellLineEdit->value = ""
 \a cdsLibManager->cellListBox->value = nil
-\a cdsLibManager->viewLineEdit->value = ""
-\a cdsLibManager->viewListBox->value = nil
-\a cdsLibManager->libLineEdit->value = ""
-\a cdsLibManager->libListBox->value = nil
 \a cdsLibManager->libListBox->value = "simulation"
 \a cdsLibManager->libLineEdit->value = "simulation"
-\a cdsLibManager->cellListBox->value = "inverter"
-\a cdsLibManager->cellLineEdit->value = "inverter"
-\a cdsLibManager->viewListBox->value = "av_extracted"
-\a cdsLibManager->viewLineEdit->value = "av_extracted"
-\a cdsLibManager->FileNewCVButton->value = t
+\a cdsLibManager->cellListBox->value = "nor"
+\a cdsLibManager->cellLineEdit->value = "nor"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
 \a nrSetCurrentWindow(cdsLibManager)
-\a cdsLibManager->viewListBox->value = "layout"
-\a cdsLibManager->viewLineEdit->value = "layout"
-\a cdsLibManager->viewListBox->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = "schematic"
-\a cdsLibManager->viewListBox->value = "layout"
-\a cdsLibManager->viewLineEdit->value = "layout"
-\a cdsLibManager->viewListBox->value = "av_extracted"
-\a cdsLibManager->viewLineEdit->value = "av_extracted"
-\a cdsLibManager->viewListBox->value = "layout"
-\a cdsLibManager->viewLineEdit->value = "layout"
-\a cdsLibManager->viewListBox->value = "schematic"
-\a cdsLibManager->viewLineEdit->value = "schematic"
-\a cdsLibManager->viewListBox->value = "layout"
-\a cdsLibManager->viewLineEdit->value = "layout"
-\a cdsLibManager->viewListBox->value = "av_extracted"
-\a cdsLibManager->viewLineEdit->value = "av_extracted"
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
 \a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->libListBox->value = "simulation"
+\a cdsLibManager->libLineEdit->value = "simulation"
+\a cdsLibManager->cellListBox->value = "nor"
+\a cdsLibManager->cellLineEdit->value = "nor"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
 \a cdsLibManager->cellListBox->value = nil
 \a cdsLibManager->viewLineEdit->value = ""
 \a cdsLibManager->viewListBox->value = nil
-\a cdsLibManager->FileNewCVButton->value = t
-\a nrSetCurrentWindow(cdsLibManager)
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->libListBox->value = "simulation"
+\a cdsLibManager->libLineEdit->value = "simulation"
+\a cdsLibManager->cellListBox->value = "nor"
+\a cdsLibManager->cellLineEdit->value = "nor"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->libListBox->value = nil
+\a cdsLibManager->libLineEdit->value = ""
+\a cdsLibManager->cellListBox->value = nil
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->cellLineEdit->value = ""
+\a cdsLibManager->libListBox->value = "simulation"
+\a cdsLibManager->libLineEdit->value = "simulation"
+\a cdsLibManager->cellListBox->value = "nor"
+\a cdsLibManager->cellLineEdit->value = "nor"
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = ""
+\a cdsLibManager->viewListBox->value = nil
+\a cdsLibManager->viewListBox->value = "schematic"
+\a cdsLibManager->viewLineEdit->value = "schematic"
 \a nrSetCurrentWindow(cdsLibManager)
 \a _lmgrCloseIconify("cdsLibManager" 1)
 \o MPS service: shutdown

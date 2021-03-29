@@ -1,0 +1,35 @@
+@(#)$CDS: nvn_64 version av4.1:Production:dfII6.1.7-64b:IC6.1.7-64b.500.12 05/03/2018 22:02 (sjfhw625) $
+sub-version 4.1_USR5_HF15, integ signature 2018-05-03-2129
+run on cad03 at Mon Mar 29 12:42:01 2021
+
+Schematic                     | Layout                      | Status
+-------------------------------------------------------------------------------
+nor schematic simulation      | nor layout simulation       | matched       
+
+Schematic and Layout Match
+
+Schematic:
+  Library:simulation
+  Cell   :nor
+  View   :schematic
+
+Layout:
+  Library:simulation
+  Cell   :nor
+  View   :layout
+
+
+
+Extraction  Information
+--------------------
+     0 cells have 0 mal-formed device problems
+     0 cells have 0 label short problems
+     0 cells have 0 label open problems
+
+Mismatch  Information
+--------------------
+     0 cells have 0 Net mismatches
+     0 cells have 0 Device mismatches
+     0 cells have 0 Pin mismatches
+     0 cells have 0 Parameter mismatches
+

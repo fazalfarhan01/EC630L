@@ -1,0 +1,95 @@
+*
+*
+*
+*                       LINUX           Mon Mar 29 12:42:57 2021
+*
+*
+*
+*  PROGRAM  advgen
+*
+*  Name           : advgen - Quantus QRC - (64-bit)
+*  Version        : 18.1.2-s132
+*  Build Date     : Thu May 10 00:43:37 PDT 2018
+*
+*  HSPICE LIBRARY
+*
+*!LENGTH_UNITS METERS
+*
+*
+*
+
+*
+.SUBCKT nor Vdd Vss A B Vout
+*
+*
+*  caps2d version: 10
+*
+*
+*       TRANSISTOR CARDS
+*
+*
+MavD21_1	Vout#4	A#4	Vss#3	Vss#4	nmos#20ivpcell#20gpdk180
++ L=1.8e-07	W=2e-06
++ AD=1.2e-12	AS=1.2e-12	PD=5.2e-06	PS=5.2e-06
++ simW=2e-06 fw=2e-06
+MavD21_2	Vss#1	B#3	Vout#2	Vss#4	nmos#20ivpcell#20gpdk180
++ L=1.8e-07	W=2e-06
++ AD=1.2e-12	AS=1.2e-12	PD=5.2e-06	PS=5.2e-06
++ simW=2e-06 fw=2e-06
+MavD27_1	avC6#2	A#2	Vdd#1	Vdd#2	pmos#20ivpcell#20gpdk180
++ L=1.8e-07	W=2e-06
++ AD=1.2e-12	AS=1.2e-12	PD=5.2e-06	PS=5.2e-06
++ simW=2e-06 fw=2e-06
+MavD27_2	Vout#1	B#4	avC6	Vdd#2	pmos#20ivpcell#20gpdk180
++ L=1.8e-07	W=2e-06
++ AD=1.2e-12	AS=1.2e-12	PD=5.2e-06	PS=5.2e-06
++ simW=2e-06 fw=2e-06
+*
+*
+*       RESISTOR AND CAP/DIODE CARDS
+*
+Rf1	A	A#1	3.750E-03	$mt1	$X=2.015 $Y=6.07
+Rf2	avC6	avC6#2	    3.5500	$mt1	$X=4.81 $Y=7.91
+Rf3	Vout#1	Vout	    2.3559	$mt1	$X=6.04 $Y=6.4605
+Rf4	Vout	Vout#3	    0.3925	$mt1	$X=5.26 $Y=5.655
+Rf5	Vout#3	Vout#4	    1.8000	$mt1	$X=4.81 $Y=4.52
+Rf6	Vout#2	Vout#3	    1.7500	$mt1	$X=5.26 $Y=4.52
+Rf7	B	B#1	7.500E-03	$mt1	$X=7.405 $Y=6.055
+Rf8	Vdd#1	Vdd	    2.5907	$mt1	$X=4.347 $Y=9.68
+Rf9	Vdd	Vdd#2	    8.2670	$mt1	$X=6.5625 $Y=9.68
+Rf10	Vss#1	Vss#2	    2.1539	$mt1	$X=6.04 $Y=3.263
+Rf11	Vss#2	Vss	    0.3693	$mt1	$X=5.378 $Y=2.755
+Rf12	Vss	Vss#3	    2.6766	$mt1	$X=3.99 $Y=2.755
+Rf13	Vss#2	Vss#4	    7.6967	$mt1	$X=6.565 $Y=2.755
+Rg1	A#2	A#3	   34.7129	$poly	$X=3.97 $Y=6.5355
+Rg2	A#3	A#1	   75.7047	$poly	$X=3.0975 $Y=6.07
+Rg3	A#3	A#4	   22.6296	$poly	$X=3.97 $Y=5.75
+Rg4	B#1	B#2	   67.3713	$poly	$X=6.4225 $Y=6.055
+Rg5	B#2	B#3	   22.0046	$poly	$X=5.65 $Y=5.7425
+Rg6	B#2	B#4	   35.3379	$poly	$X=5.65 $Y=6.5275
+*
+*       CAPACITOR CARDS
+*
+*
+C1	Vdd	Vss	cmodel	2.86483E-16	$X=4.89 $Y=5.179
+C2	A	Vss	cmodel	6.97217E-17	$X=2.7555 $Y=5.149
+C3	Vout	Vss	cmodel	1.863E-16	$X=5.0665 $Y=4.0765
+C4	avC6	Vss	cmodel	2.65743E-16	$X=4.76 $Y=3.525
+C5	B#4	Vss	cmodel	1.79474E-16	$X=5.139 $Y=5.145
+C6	A#2	Vss	cmodel	1.72685E-16	$X=4.3455 $Y=5.1515
+C7	B#3	Vss	cmodel	1.55982E-16	$X=5.1545 $Y=3.6195
+C8	A#4	Vss	cmodel	1.57376E-16	$X=4.3355 $Y=3.62
+C9	B#1	Vss	cmodel	2.66294E-16	$X=5.753 $Y=4.0515
+C10	A#1	Vss	cmodel	2.3082E-16	$X=3.472 $Y=4.259
+C11	Vdd#2	Vss	cmodel	6.26551E-16	$X=4.684 $Y=2.758
+C12	Vout#2	Vss	cmodel	2.40775E-16	$X=4.7665 $Y=3.018
+C13	Vout#4	Vss	cmodel	2.3828E-16	$X=4.644 $Y=3.018
+C14	Vout#1	Vss	cmodel	3.2226E-16	$X=4.904 $Y=3.5715
+C15	avC6#2	Vss	cmodel	2.41446E-16	$X=4.644 $Y=3.5245
+C16	Vdd#1	Vss	cmodel	6.04122E-16	$X=4.5795 $Y=3.4125
+C17	A#3	Vss	cmodel	1.30067E-16	$X=4.2575 $Y=4.7745
+C18	B#2	Vss	cmodel	1.41479E-16	$X=5.2745 $Y=4.823
+*
+*
+.ENDS nor
+*
