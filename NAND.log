@@ -1,4 +1,4 @@
-Circuit: *** SPICE deck for cell NAND{lay} from library NAND
+Circuit: *** SPICE deck for cell nand{lay} from library Digital
 
 Ignoring BSIM parameter XL
 Ignoring BSIM parameter XW
@@ -6,20 +6,20 @@ Ignoring BSIM parameter XL
 Ignoring BSIM parameter XW
 Direct Newton iteration for .op point succeeded.
 
-Date: Fri Apr 23 22:16:35 2021
-Total elapsed time: 0.230 seconds.
+Date: Sat Apr 24 14:01:44 2021
+Total elapsed time: 0.176 seconds.
 
 tnom = 27
 temp = 27
 method = modified trap
-totiter = 2642
-traniter = 2630
-tranpoints = 1243
-accept = 1181
-rejected = 62
+totiter = 2596
+traniter = 2573
+tranpoints = 1222
+accept = 1173
+rejected = 49
 matrix size = 10
 fillins = 0
 solver = Normal
-Matrix Compiler1: 490 bytes object code size  0.2/0.2/[0.1]
-Matrix Compiler2: 840 bytes object code size  0.1/0.2/[0.1]
+Matrix Compiler1: 472 bytes object code size  0.2/0.1/[0.1]
+Matrix Compiler2: off  [0.1]/0.4/0.2
 
