@@ -1,0 +1,1761 @@
+Electric Version 9.07
+--------------- 0 --------------
+  Sat Apr 24 12:20:41 IST 2021
+ProcessKeyBinding 401 when=1619247041443 modifiers=200 code=12 char=ffff false false
+--------------- 1 --------------
+  Sat Apr 24 12:20:43 IST 2021
+ProcessKeyBinding 401 when=1619247043724 modifiers=200 code=12 char=ffff false false
+--------------- 2 --------------
+  Sat Apr 24 12:20:56 IST 2021
+Menu Activated: File | Open Library...
+--------------- 3 --------------
+  Sat Apr 24 12:21:10 IST 2021
+Menu Activated: Tools | DRC | Check Hierarchically
+--------------- 4 --------------
+  Sat Apr 24 12:21:21 IST 2021
+Menu Activated: Tools | Simulation (Spice) | Write Spice Deck...
+--------------- 5 --------------
+  Sat Apr 24 12:21:42 IST 2021
+Menu Activated: Tools | Simulation (Spice) | Write CDL Deck...
+--------------- 6 --------------
+  Sat Apr 24 12:21:55 IST 2021
+Menu Activated: Tools | Simulation (Spice) | Write Spice Deck...
+--------------- 7 --------------
+  Sat Apr 24 12:24:31 IST 2021
+ProcessKeyBinding 402 when=1619247271898 modifiers=0 code=a char=a false false
+--------------- 8 --------------
+  Sat Apr 24 12:25:17 IST 2021
+Menu Activated: Edit | Erase | Selected
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'not{lay}': 'Metal-1-P-Active-Con[contact@0].metal-1-p-act'
+--------------- 9 --------------
+  Sat Apr 24 12:25:17 IST 2021
+ProcessKeyBinding 400 when=1619247317240 modifiers=0 code=0 char=7f false false
+--------------- 10 --------------
+  Sat Apr 24 12:26:35 IST 2021
+ProcessKeyBinding 401 when=1619247395807 modifiers=80 code=11 char=ffff false false
+--------------- 11 --------------
+  Sat Apr 24 12:26:36 IST 2021
+ProcessKeyBinding 401 when=1619247396317 modifiers=80 code=11 char=ffff false false
+--------------- 12 --------------
+  Sat Apr 24 12:26:36 IST 2021
+ProcessKeyBinding 401 when=1619247396350 modifiers=80 code=11 char=ffff false false
+--------------- 13 --------------
+  Sat Apr 24 12:26:36 IST 2021
+ProcessKeyBinding 401 when=1619247396375 modifiers=80 code=11 char=ffff false false
+--------------- 14 --------------
+  Sat Apr 24 12:26:36 IST 2021
+ProcessKeyBinding 401 when=1619247396423 modifiers=80 code=11 char=ffff false false
+--------------- 15 --------------
+  Sat Apr 24 12:26:36 IST 2021
+ProcessKeyBinding 401 when=1619247396452 modifiers=80 code=11 char=ffff false false
+--------------- 16 --------------
+  Sat Apr 24 12:26:36 IST 2021
+ProcessKeyBinding 401 when=1619247396485 modifiers=80 code=11 char=ffff false false
+--------------- 17 --------------
+  Sat Apr 24 12:26:36 IST 2021
+ProcessKeyBinding 401 when=1619247396517 modifiers=80 code=11 char=ffff false false
+--------------- 18 --------------
+  Sat Apr 24 12:26:36 IST 2021
+ProcessKeyBinding 401 when=1619247396549 modifiers=80 code=11 char=ffff false false
+--------------- 19 --------------
+  Sat Apr 24 12:26:36 IST 2021
+ProcessKeyBinding 401 when=1619247396580 modifiers=80 code=11 char=ffff false false
+--------------- 20 --------------
+  Sat Apr 24 12:26:36 IST 2021
+ProcessKeyBinding 401 when=1619247396607 modifiers=80 code=11 char=ffff false false
+--------------- 21 --------------
+  Sat Apr 24 12:26:36 IST 2021
+ProcessKeyBinding 401 when=1619247396638 modifiers=80 code=11 char=ffff false false
+--------------- 22 --------------
+  Sat Apr 24 12:26:36 IST 2021
+ProcessKeyBinding 401 when=1619247396685 modifiers=80 code=11 char=ffff false false
+--------------- 23 --------------
+  Sat Apr 24 12:26:36 IST 2021
+ProcessKeyBinding 402 when=1619247396695 modifiers=0 code=11 char=ffff false false
+--------------- 24 --------------
+  Sat Apr 24 12:26:38 IST 2021
+ProcessKeyBinding 401 when=1619247398023 modifiers=80 code=11 char=ffff false false
+--------------- 25 --------------
+  Sat Apr 24 12:26:38 IST 2021
+ProcessKeyBinding 401 when=1619247398531 modifiers=80 code=11 char=ffff false false
+--------------- 26 --------------
+  Sat Apr 24 12:26:38 IST 2021
+ProcessKeyBinding 401 when=1619247398565 modifiers=80 code=11 char=ffff false false
+--------------- 27 --------------
+  Sat Apr 24 12:26:38 IST 2021
+ProcessKeyBinding 401 when=1619247398597 modifiers=80 code=11 char=ffff false false
+--------------- 28 --------------
+  Sat Apr 24 12:26:38 IST 2021
+ProcessKeyBinding 401 when=1619247398624 modifiers=80 code=11 char=ffff false false
+--------------- 29 --------------
+  Sat Apr 24 12:26:38 IST 2021
+ProcessKeyBinding 401 when=1619247398655 modifiers=80 code=11 char=ffff false false
+--------------- 30 --------------
+  Sat Apr 24 12:26:38 IST 2021
+ProcessKeyBinding 401 when=1619247398700 modifiers=80 code=11 char=ffff false false
+--------------- 31 --------------
+  Sat Apr 24 12:26:38 IST 2021
+ProcessKeyBinding 401 when=1619247398731 modifiers=80 code=11 char=ffff false false
+--------------- 32 --------------
+  Sat Apr 24 12:26:38 IST 2021
+ProcessKeyBinding 401 when=1619247398761 modifiers=80 code=11 char=ffff false false
+--------------- 33 --------------
+  Sat Apr 24 12:26:38 IST 2021
+ProcessKeyBinding 401 when=1619247398790 modifiers=80 code=11 char=ffff false false
+--------------- 34 --------------
+  Sat Apr 24 12:26:38 IST 2021
+ProcessKeyBinding 401 when=1619247398821 modifiers=80 code=11 char=ffff false false
+--------------- 35 --------------
+  Sat Apr 24 12:26:38 IST 2021
+ProcessKeyBinding 401 when=1619247398854 modifiers=80 code=11 char=ffff false false
+--------------- 36 --------------
+  Sat Apr 24 12:26:38 IST 2021
+ProcessKeyBinding 401 when=1619247398900 modifiers=80 code=11 char=ffff false false
+--------------- 37 --------------
+  Sat Apr 24 12:26:38 IST 2021
+ProcessKeyBinding 401 when=1619247398932 modifiers=80 code=11 char=ffff false false
+--------------- 38 --------------
+  Sat Apr 24 12:26:38 IST 2021
+ProcessKeyBinding 401 when=1619247398964 modifiers=80 code=11 char=ffff false false
+--------------- 39 --------------
+  Sat Apr 24 12:26:38 IST 2021
+ProcessKeyBinding 401 when=1619247398994 modifiers=80 code=11 char=ffff false false
+--------------- 40 --------------
+  Sat Apr 24 12:26:39 IST 2021
+ProcessKeyBinding 401 when=1619247399025 modifiers=80 code=11 char=ffff false false
+--------------- 41 --------------
+  Sat Apr 24 12:26:39 IST 2021
+ProcessKeyBinding 401 when=1619247399057 modifiers=80 code=11 char=ffff false false
+--------------- 42 --------------
+  Sat Apr 24 12:26:39 IST 2021
+ProcessKeyBinding 401 when=1619247399088 modifiers=80 code=11 char=ffff false false
+--------------- 43 --------------
+  Sat Apr 24 12:26:39 IST 2021
+ProcessKeyBinding 402 when=1619247399097 modifiers=0 code=11 char=ffff false false
+--------------- 44 --------------
+  Sat Apr 24 12:26:58 IST 2021
+ProcessKeyBinding 402 when=1619247418856 modifiers=0 code=a char=a false false
+--------------- 45 --------------
+  Sat Apr 24 12:27:02 IST 2021
+ProcessKeyBinding 402 when=1619247422759 modifiers=0 code=a char=a false false
+--------------- 46 --------------
+  Sat Apr 24 12:27:08 IST 2021
+ProcessKeyBinding 402 when=1619247428668 modifiers=0 code=a char=a false false
+--------------- 47 --------------
+  Sat Apr 24 12:27:14 IST 2021
+ProcessKeyBinding 401 when=1619247434904 modifiers=80 code=11 char=ffff false false
+--------------- 48 --------------
+  Sat Apr 24 12:27:15 IST 2021
+ProcessKeyBinding 401 when=1619247435405 modifiers=80 code=11 char=ffff false false
+--------------- 49 --------------
+  Sat Apr 24 12:27:15 IST 2021
+ProcessKeyBinding 401 when=1619247435454 modifiers=80 code=11 char=ffff false false
+--------------- 50 --------------
+  Sat Apr 24 12:27:15 IST 2021
+ProcessKeyBinding 401 when=1619247435484 modifiers=80 code=11 char=ffff false false
+--------------- 51 --------------
+  Sat Apr 24 12:27:15 IST 2021
+ProcessKeyBinding 401 when=1619247435517 modifiers=80 code=11 char=ffff false false
+--------------- 52 --------------
+  Sat Apr 24 12:27:15 IST 2021
+ProcessKeyBinding 401 when=1619247435543 modifiers=80 code=11 char=ffff false false
+--------------- 53 --------------
+  Sat Apr 24 12:27:15 IST 2021
+ProcessKeyBinding 401 when=1619247435573 modifiers=80 code=11 char=ffff false false
+--------------- 54 --------------
+  Sat Apr 24 12:27:15 IST 2021
+ProcessKeyBinding 401 when=1619247435604 modifiers=80 code=11 char=ffff false false
+--------------- 55 --------------
+  Sat Apr 24 12:27:15 IST 2021
+ProcessKeyBinding 401 when=1619247435635 modifiers=80 code=11 char=ffff false false
+--------------- 56 --------------
+  Sat Apr 24 12:27:15 IST 2021
+ProcessKeyBinding 401 when=1619247435684 modifiers=80 code=11 char=ffff false false
+--------------- 57 --------------
+  Sat Apr 24 12:27:15 IST 2021
+ProcessKeyBinding 401 when=1619247435717 modifiers=80 code=11 char=ffff false false
+--------------- 58 --------------
+  Sat Apr 24 12:27:15 IST 2021
+ProcessKeyBinding 401 when=1619247435743 modifiers=80 code=11 char=ffff false false
+--------------- 59 --------------
+  Sat Apr 24 12:27:15 IST 2021
+ProcessKeyBinding 401 when=1619247435775 modifiers=80 code=11 char=ffff false false
+--------------- 60 --------------
+  Sat Apr 24 12:27:15 IST 2021
+ProcessKeyBinding 401 when=1619247435806 modifiers=80 code=11 char=ffff false false
+--------------- 61 --------------
+  Sat Apr 24 12:27:15 IST 2021
+ProcessKeyBinding 401 when=1619247435838 modifiers=80 code=11 char=ffff false false
+--------------- 62 --------------
+  Sat Apr 24 12:27:15 IST 2021
+ProcessKeyBinding 401 when=1619247435869 modifiers=80 code=11 char=ffff false false
+--------------- 63 --------------
+  Sat Apr 24 12:27:15 IST 2021
+ProcessKeyBinding 401 when=1619247435899 modifiers=80 code=11 char=ffff false false
+--------------- 64 --------------
+  Sat Apr 24 12:27:15 IST 2021
+ProcessKeyBinding 401 when=1619247435948 modifiers=80 code=11 char=ffff false false
+--------------- 65 --------------
+  Sat Apr 24 12:27:15 IST 2021
+ProcessKeyBinding 401 when=1619247435979 modifiers=80 code=11 char=ffff false false
+--------------- 66 --------------
+  Sat Apr 24 12:27:16 IST 2021
+ProcessKeyBinding 401 when=1619247436008 modifiers=80 code=11 char=ffff false false
+--------------- 67 --------------
+  Sat Apr 24 12:27:16 IST 2021
+ProcessKeyBinding 401 when=1619247436041 modifiers=80 code=11 char=ffff false false
+--------------- 68 --------------
+  Sat Apr 24 12:27:16 IST 2021
+ProcessKeyBinding 401 when=1619247436072 modifiers=80 code=11 char=ffff false false
+--------------- 69 --------------
+  Sat Apr 24 12:27:16 IST 2021
+ProcessKeyBinding 401 when=1619247436103 modifiers=80 code=11 char=ffff false false
+--------------- 70 --------------
+  Sat Apr 24 12:27:16 IST 2021
+ProcessKeyBinding 401 when=1619247436135 modifiers=80 code=11 char=ffff false false
+--------------- 71 --------------
+  Sat Apr 24 12:27:16 IST 2021
+ProcessKeyBinding 401 when=1619247436166 modifiers=80 code=11 char=ffff false false
+--------------- 72 --------------
+  Sat Apr 24 12:27:16 IST 2021
+ProcessKeyBinding 402 when=1619247436167 modifiers=0 code=11 char=ffff false false
+--------------- 73 --------------
+  Sat Apr 24 12:28:24 IST 2021
+ProcessKeyBinding 401 when=1619247504601 modifiers=80 code=11 char=ffff false false
+--------------- 74 --------------
+  Sat Apr 24 12:28:25 IST 2021
+ProcessKeyBinding 401 when=1619247505108 modifiers=80 code=11 char=ffff false false
+--------------- 75 --------------
+  Sat Apr 24 12:28:25 IST 2021
+ProcessKeyBinding 401 when=1619247505141 modifiers=80 code=11 char=ffff false false
+--------------- 76 --------------
+  Sat Apr 24 12:28:25 IST 2021
+ProcessKeyBinding 401 when=1619247505173 modifiers=80 code=11 char=ffff false false
+--------------- 77 --------------
+  Sat Apr 24 12:28:25 IST 2021
+ProcessKeyBinding 401 when=1619247505203 modifiers=80 code=11 char=ffff false false
+--------------- 78 --------------
+  Sat Apr 24 12:28:25 IST 2021
+ProcessKeyBinding 401 when=1619247505233 modifiers=80 code=11 char=ffff false false
+--------------- 79 --------------
+  Sat Apr 24 12:28:25 IST 2021
+ProcessKeyBinding 401 when=1619247505282 modifiers=80 code=11 char=ffff false false
+--------------- 80 --------------
+  Sat Apr 24 12:28:25 IST 2021
+ProcessKeyBinding 401 when=1619247505309 modifiers=80 code=11 char=ffff false false
+--------------- 81 --------------
+  Sat Apr 24 12:28:25 IST 2021
+ProcessKeyBinding 401 when=1619247505340 modifiers=80 code=11 char=ffff false false
+--------------- 82 --------------
+  Sat Apr 24 12:28:25 IST 2021
+ProcessKeyBinding 401 when=1619247505371 modifiers=80 code=11 char=ffff false false
+--------------- 83 --------------
+  Sat Apr 24 12:28:25 IST 2021
+ProcessKeyBinding 401 when=1619247505404 modifiers=80 code=11 char=ffff false false
+--------------- 84 --------------
+  Sat Apr 24 12:28:25 IST 2021
+ProcessKeyBinding 401 when=1619247505434 modifiers=80 code=11 char=ffff false false
+--------------- 85 --------------
+  Sat Apr 24 12:28:25 IST 2021
+ProcessKeyBinding 402 when=1619247505463 modifiers=0 code=11 char=ffff false false
+--------------- 86 --------------
+  Sat Apr 24 12:28:43 IST 2021
+ProcessKeyBinding 401 when=1619247523159 modifiers=80 code=11 char=ffff false false
+--------------- 87 --------------
+  Sat Apr 24 12:28:43 IST 2021
+ProcessKeyBinding 401 when=1619247523663 modifiers=80 code=11 char=ffff false false
+--------------- 88 --------------
+  Sat Apr 24 12:28:43 IST 2021
+ProcessKeyBinding 401 when=1619247523695 modifiers=80 code=11 char=ffff false false
+--------------- 89 --------------
+  Sat Apr 24 12:28:43 IST 2021
+ProcessKeyBinding 401 when=1619247523727 modifiers=80 code=11 char=ffff false false
+--------------- 90 --------------
+  Sat Apr 24 12:28:43 IST 2021
+ProcessKeyBinding 401 when=1619247523758 modifiers=80 code=11 char=ffff false false
+--------------- 91 --------------
+  Sat Apr 24 12:28:43 IST 2021
+ProcessKeyBinding 402 when=1619247523775 modifiers=0 code=11 char=ffff false false
+--------------- 92 --------------
+  Sat Apr 24 12:29:26 IST 2021
+ProcessKeyBinding 401 when=1619247566626 modifiers=80 code=11 char=ffff false false
+--------------- 93 --------------
+  Sat Apr 24 12:29:27 IST 2021
+ProcessKeyBinding 401 when=1619247567138 modifiers=80 code=11 char=ffff false false
+--------------- 94 --------------
+  Sat Apr 24 12:29:27 IST 2021
+ProcessKeyBinding 401 when=1619247567169 modifiers=80 code=11 char=ffff false false
+--------------- 95 --------------
+  Sat Apr 24 12:29:27 IST 2021
+ProcessKeyBinding 401 when=1619247567201 modifiers=80 code=11 char=ffff false false
+--------------- 96 --------------
+  Sat Apr 24 12:29:27 IST 2021
+ProcessKeyBinding 401 when=1619247567234 modifiers=80 code=11 char=ffff false false
+--------------- 97 --------------
+  Sat Apr 24 12:29:27 IST 2021
+ProcessKeyBinding 401 when=1619247567263 modifiers=80 code=11 char=ffff false false
+--------------- 98 --------------
+  Sat Apr 24 12:29:27 IST 2021
+ProcessKeyBinding 401 when=1619247567294 modifiers=80 code=11 char=ffff false false
+--------------- 99 --------------
+  Sat Apr 24 12:29:27 IST 2021
+ProcessKeyBinding 401 when=1619247567326 modifiers=80 code=11 char=ffff false false
+--------------- 100 --------------
+  Sat Apr 24 12:29:27 IST 2021
+ProcessKeyBinding 401 when=1619247567357 modifiers=80 code=11 char=ffff false false
+--------------- 101 --------------
+  Sat Apr 24 12:29:27 IST 2021
+ProcessKeyBinding 401 when=1619247567389 modifiers=80 code=11 char=ffff false false
+--------------- 102 --------------
+  Sat Apr 24 12:29:27 IST 2021
+ProcessKeyBinding 401 when=1619247567436 modifiers=80 code=11 char=ffff false false
+--------------- 103 --------------
+  Sat Apr 24 12:29:27 IST 2021
+ProcessKeyBinding 401 when=1619247567467 modifiers=80 code=11 char=ffff false false
+--------------- 104 --------------
+  Sat Apr 24 12:29:27 IST 2021
+ProcessKeyBinding 401 when=1619247567495 modifiers=80 code=11 char=ffff false false
+--------------- 105 --------------
+  Sat Apr 24 12:29:27 IST 2021
+ProcessKeyBinding 401 when=1619247567526 modifiers=80 code=11 char=ffff false false
+--------------- 106 --------------
+  Sat Apr 24 12:29:27 IST 2021
+ProcessKeyBinding 401 when=1619247567557 modifiers=80 code=11 char=ffff false false
+--------------- 107 --------------
+  Sat Apr 24 12:29:27 IST 2021
+ProcessKeyBinding 401 when=1619247567588 modifiers=80 code=11 char=ffff false false
+--------------- 108 --------------
+  Sat Apr 24 12:29:27 IST 2021
+ProcessKeyBinding 401 when=1619247567621 modifiers=80 code=11 char=ffff false false
+--------------- 109 --------------
+  Sat Apr 24 12:29:27 IST 2021
+ProcessKeyBinding 401 when=1619247567667 modifiers=80 code=11 char=ffff false false
+--------------- 110 --------------
+  Sat Apr 24 12:29:27 IST 2021
+ProcessKeyBinding 401 when=1619247567697 modifiers=80 code=11 char=ffff false false
+--------------- 111 --------------
+  Sat Apr 24 12:29:27 IST 2021
+ProcessKeyBinding 401 when=1619247567728 modifiers=80 code=11 char=ffff false false
+--------------- 112 --------------
+  Sat Apr 24 12:29:27 IST 2021
+ProcessKeyBinding 401 when=1619247567759 modifiers=80 code=11 char=ffff false false
+--------------- 113 --------------
+  Sat Apr 24 12:29:27 IST 2021
+ProcessKeyBinding 401 when=1619247567790 modifiers=80 code=11 char=ffff false false
+--------------- 114 --------------
+  Sat Apr 24 12:29:27 IST 2021
+ProcessKeyBinding 401 when=1619247567823 modifiers=80 code=11 char=ffff false false
+--------------- 115 --------------
+  Sat Apr 24 12:29:27 IST 2021
+ProcessKeyBinding 402 when=1619247567824 modifiers=0 code=11 char=ffff false false
+--------------- 116 --------------
+  Sat Apr 24 12:29:29 IST 2021
+ProcessKeyBinding 401 when=1619247569433 modifiers=80 code=11 char=ffff false false
+--------------- 117 --------------
+  Sat Apr 24 12:29:29 IST 2021
+ProcessKeyBinding 401 when=1619247569941 modifiers=80 code=11 char=ffff false false
+--------------- 118 --------------
+  Sat Apr 24 12:29:29 IST 2021
+ProcessKeyBinding 401 when=1619247569973 modifiers=80 code=11 char=ffff false false
+--------------- 119 --------------
+  Sat Apr 24 12:29:30 IST 2021
+ProcessKeyBinding 401 when=1619247570004 modifiers=80 code=11 char=ffff false false
+--------------- 120 --------------
+  Sat Apr 24 12:29:30 IST 2021
+ProcessKeyBinding 402 when=1619247570017 modifiers=0 code=11 char=ffff false false
+--------------- 121 --------------
+  Sat Apr 24 12:29:35 IST 2021
+ProcessKeyBinding 401 when=1619247575239 modifiers=80 code=11 char=ffff false false
+--------------- 122 --------------
+  Sat Apr 24 12:29:35 IST 2021
+ProcessKeyBinding 402 when=1619247575530 modifiers=0 code=11 char=ffff false false
+--------------- 123 --------------
+  Sat Apr 24 12:29:55 IST 2021
+Menu Activated: Edit | Rotate | 90 Degrees Clockwise
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'not{lay}': Metal-1-N-Active-Con['contact@4']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'not{lay}': N-Transistor['nmos@0']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'not{lay}': Metal-1-N-Active-Con['contact@3']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'not{lay}': N-Active['net@2']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'not{lay}': N-Active['net@3']
+--------------- 124 --------------
+  Sat Apr 24 12:30:04 IST 2021
+Menu Activated: Edit | Rotate | 90 Degrees Clockwise
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'not{lay}': Metal-1-P-Active-Con['contact@2']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'not{lay}': P-Transistor['pmos@0']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'not{lay}': Metal-1-P-Active-Con['contact@1']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'not{lay}': P-Active['net@0']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'not{lay}': P-Active['net@1']
+--------------- 125 --------------
+  Sat Apr 24 12:30:20 IST 2021
+ProcessKeyBinding 401 when=1619247620883 modifiers=80 code=11 char=ffff false false
+--------------- 126 --------------
+  Sat Apr 24 12:30:21 IST 2021
+ProcessKeyBinding 401 when=1619247621386 modifiers=80 code=11 char=ffff false false
+--------------- 127 --------------
+  Sat Apr 24 12:30:21 IST 2021
+ProcessKeyBinding 401 when=1619247621417 modifiers=80 code=11 char=ffff false false
+--------------- 128 --------------
+  Sat Apr 24 12:30:21 IST 2021
+ProcessKeyBinding 401 when=1619247621450 modifiers=80 code=11 char=ffff false false
+--------------- 129 --------------
+  Sat Apr 24 12:30:21 IST 2021
+ProcessKeyBinding 401 when=1619247621493 modifiers=80 code=11 char=ffff false false
+--------------- 130 --------------
+  Sat Apr 24 12:30:21 IST 2021
+ProcessKeyBinding 401 when=1619247621525 modifiers=80 code=11 char=ffff false false
+--------------- 131 --------------
+  Sat Apr 24 12:30:21 IST 2021
+ProcessKeyBinding 401 when=1619247621560 modifiers=80 code=11 char=ffff false false
+--------------- 132 --------------
+  Sat Apr 24 12:30:21 IST 2021
+ProcessKeyBinding 401 when=1619247621590 modifiers=80 code=11 char=ffff false false
+--------------- 133 --------------
+  Sat Apr 24 12:30:21 IST 2021
+ProcessKeyBinding 401 when=1619247621622 modifiers=80 code=11 char=ffff false false
+--------------- 134 --------------
+  Sat Apr 24 12:30:21 IST 2021
+ProcessKeyBinding 401 when=1619247621652 modifiers=80 code=11 char=ffff false false
+--------------- 135 --------------
+  Sat Apr 24 12:30:21 IST 2021
+ProcessKeyBinding 401 when=1619247621684 modifiers=80 code=11 char=ffff false false
+--------------- 136 --------------
+  Sat Apr 24 12:30:21 IST 2021
+ProcessKeyBinding 401 when=1619247621718 modifiers=80 code=11 char=ffff false false
+--------------- 137 --------------
+  Sat Apr 24 12:30:21 IST 2021
+ProcessKeyBinding 401 when=1619247621748 modifiers=80 code=11 char=ffff false false
+--------------- 138 --------------
+  Sat Apr 24 12:30:21 IST 2021
+ProcessKeyBinding 401 when=1619247621777 modifiers=80 code=11 char=ffff false false
+--------------- 139 --------------
+  Sat Apr 24 12:30:21 IST 2021
+ProcessKeyBinding 401 when=1619247621809 modifiers=80 code=11 char=ffff false false
+--------------- 140 --------------
+  Sat Apr 24 12:30:21 IST 2021
+ProcessKeyBinding 402 when=1619247621851 modifiers=0 code=11 char=ffff false false
+--------------- 141 --------------
+  Sat Apr 24 12:30:37 IST 2021
+ProcessKeyBinding 401 when=1619247637888 modifiers=80 code=11 char=ffff false false
+--------------- 142 --------------
+  Sat Apr 24 12:30:38 IST 2021
+Menu Activated: Edit | Undo
+--------------- 143 --------------
+  Sat Apr 24 12:30:38 IST 2021
+ProcessKeyBinding 400 when=1619247638008 modifiers=80 code=0 char=1a false false
+--------------- 144 --------------
+  Sat Apr 24 12:30:38 IST 2021
+Menu Activated: Edit | Undo
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'not{lay}': Metal-1-N-Active-Con['contact@3']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'not{lay}': Metal-1-N-Active-Con['contact@4']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'not{lay}': N-Active['net@2']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'not{lay}': N-Active['net@3']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'not{lay}': Polysilicon-1['net@4']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'not{lay}': 'N-Transistor[nmos@0].diff-bottom'
+--------------- 145 --------------
+  Sat Apr 24 12:30:38 IST 2021
+ProcessKeyBinding 400 when=1619247638392 modifiers=80 code=0 char=1a false false
+--------------- 146 --------------
+  Sat Apr 24 12:30:39 IST 2021
+ProcessKeyBinding 402 when=1619247639274 modifiers=0 code=11 char=ffff false false
+--------------- 147 --------------
+  Sat Apr 24 12:30:57 IST 2021
+ProcessKeyBinding 401 when=1619247657953 modifiers=80 code=11 char=ffff false false
+--------------- 148 --------------
+  Sat Apr 24 12:30:58 IST 2021
+ProcessKeyBinding 401 when=1619247658452 modifiers=80 code=11 char=ffff false false
+--------------- 149 --------------
+  Sat Apr 24 12:30:58 IST 2021
+ProcessKeyBinding 401 when=1619247658499 modifiers=80 code=11 char=ffff false false
+--------------- 150 --------------
+  Sat Apr 24 12:30:58 IST 2021
+ProcessKeyBinding 401 when=1619247658529 modifiers=80 code=11 char=ffff false false
+--------------- 151 --------------
+  Sat Apr 24 12:30:58 IST 2021
+ProcessKeyBinding 401 when=1619247658561 modifiers=80 code=11 char=ffff false false
+--------------- 152 --------------
+  Sat Apr 24 12:30:58 IST 2021
+ProcessKeyBinding 401 when=1619247658593 modifiers=80 code=11 char=ffff false false
+--------------- 153 --------------
+  Sat Apr 24 12:30:58 IST 2021
+ProcessKeyBinding 401 when=1619247658624 modifiers=80 code=11 char=ffff false false
+--------------- 154 --------------
+  Sat Apr 24 12:30:58 IST 2021
+ProcessKeyBinding 401 when=1619247658657 modifiers=80 code=11 char=ffff false false
+--------------- 155 --------------
+  Sat Apr 24 12:30:58 IST 2021
+ProcessKeyBinding 401 when=1619247658689 modifiers=80 code=11 char=ffff false false
+--------------- 156 --------------
+  Sat Apr 24 12:30:58 IST 2021
+ProcessKeyBinding 401 when=1619247658720 modifiers=80 code=11 char=ffff false false
+--------------- 157 --------------
+  Sat Apr 24 12:30:58 IST 2021
+ProcessKeyBinding 401 when=1619247658751 modifiers=80 code=11 char=ffff false false
+--------------- 158 --------------
+  Sat Apr 24 12:30:58 IST 2021
+ProcessKeyBinding 401 when=1619247658783 modifiers=80 code=11 char=ffff false false
+--------------- 159 --------------
+  Sat Apr 24 12:30:58 IST 2021
+ProcessKeyBinding 401 when=1619247658829 modifiers=80 code=11 char=ffff false false
+--------------- 160 --------------
+  Sat Apr 24 12:30:58 IST 2021
+ProcessKeyBinding 402 when=1619247658857 modifiers=0 code=11 char=ffff false false
+--------------- 161 --------------
+  Sat Apr 24 12:31:08 IST 2021
+ProcessKeyBinding 401 when=1619247668961 modifiers=200 code=12 char=ffff false false
+--------------- 162 --------------
+  Sat Apr 24 12:31:12 IST 2021
+ProcessKeyBinding 401 when=1619247672088 modifiers=200 code=12 char=ffff false false
+--------------- 163 --------------
+  Sat Apr 24 12:31:12 IST 2021
+ProcessKeyBinding 401 when=1619247672115 modifiers=240 code=10 char=ffff false false
+--------------- 164 --------------
+  Sat Apr 24 12:31:12 IST 2021
+ProcessKeyBinding 401 when=1619247672360 modifiers=240 code=50 char=50(P) false false
+--------------- 165 --------------
+  Sat Apr 24 12:31:12 IST 2021
+ProcessKeyBinding 400 when=1619247672360 modifiers=240 code=0 char=50(P) false false
+--------------- 166 --------------
+  Sat Apr 24 12:31:12 IST 2021
+ProcessKeyBinding 402 when=1619247672442 modifiers=240 code=50 char=50(P) false false
+--------------- 167 --------------
+  Sat Apr 24 12:31:12 IST 2021
+ProcessKeyBinding 402 when=1619247672527 modifiers=40 code=12 char=ffff false false
+--------------- 168 --------------
+  Sat Apr 24 12:31:12 IST 2021
+ProcessKeyBinding 402 when=1619247672553 modifiers=0 code=10 char=ffff false false
+--------------- 169 --------------
+  Sat Apr 24 12:31:32 IST 2021
+ProcessKeyBinding 401 when=1619247692072 modifiers=200 code=12 char=ffff false false
+--------------- 170 --------------
+  Sat Apr 24 12:31:32 IST 2021
+ProcessKeyBinding 401 when=1619247692152 modifiers=240 code=10 char=ffff false false
+--------------- 171 --------------
+  Sat Apr 24 12:31:32 IST 2021
+ProcessKeyBinding 401 when=1619247692347 modifiers=240 code=50 char=50(P) false false
+--------------- 172 --------------
+  Sat Apr 24 12:31:32 IST 2021
+ProcessKeyBinding 400 when=1619247692348 modifiers=240 code=0 char=50(P) false false
+--------------- 173 --------------
+  Sat Apr 24 12:31:32 IST 2021
+ProcessKeyBinding 402 when=1619247692426 modifiers=240 code=50 char=50(P) false false
+--------------- 174 --------------
+  Sat Apr 24 12:31:32 IST 2021
+ProcessKeyBinding 402 when=1619247692519 modifiers=200 code=10 char=ffff false false
+--------------- 175 --------------
+  Sat Apr 24 12:31:32 IST 2021
+ProcessKeyBinding 402 when=1619247692544 modifiers=0 code=12 char=ffff false false
+--------------- 176 --------------
+  Sat Apr 24 12:31:32 IST 2021
+ProcessKeyBinding 401 when=1619247692663 modifiers=200 code=12 char=ffff false false
+--------------- 177 --------------
+  Sat Apr 24 12:32:10 IST 2021
+ProcessKeyBinding 402 when=1619247730335 modifiers=0 code=a char=a false false
+--------------- 178 --------------
+  Sat Apr 24 12:32:53 IST 2021
+ProcessKeyBinding 400 when=1619247773217 modifiers=0 code=0 char=1b false false
+--------------- 179 --------------
+  Sat Apr 24 12:32:53 IST 2021
+ProcessKeyBinding 402 when=1619247773338 modifiers=0 code=1b char=1b false false
+--------------- 180 --------------
+  Sat Apr 24 12:32:57 IST 2021
+Menu Activated: Edit | Erase | Selected
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'not{lay}': 'Metal-1-Pin[pin@2].metal-1'
+--------------- 181 --------------
+  Sat Apr 24 12:32:57 IST 2021
+ProcessKeyBinding 400 when=1619247777850 modifiers=0 code=0 char=7f false false
+--------------- 182 --------------
+  Sat Apr 24 12:33:07 IST 2021
+Menu Activated: Edit | Erase | Selected
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'not{lay}': Metal-1['net@5']
+--------------- 183 --------------
+  Sat Apr 24 12:33:07 IST 2021
+ProcessKeyBinding 400 when=1619247787449 modifiers=0 code=0 char=7f false false
+--------------- 184 --------------
+  Sat Apr 24 12:33:22 IST 2021
+Menu Activated: Export | Create Export...
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'not{lay}': 'Metal-1-Pin[pin@3].metal-1'
+--------------- 185 --------------
+  Sat Apr 24 12:33:37 IST 2021
+Menu Activated: Export | Create Export...
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'not{lay}': 'Metal-1-Pin[pin@4].metal-1'
+--------------- 186 --------------
+  Sat Apr 24 12:34:26 IST 2021
+ProcessKeyBinding 402 when=1619247866123 modifiers=0 code=a char=a false false
+--------------- 187 --------------
+  Sat Apr 24 12:34:40 IST 2021
+ProcessKeyBinding 402 when=1619247880347 modifiers=0 code=a char=a false false
+--------------- 188 --------------
+  Sat Apr 24 12:35:27 IST 2021
+Menu Activated: Export | Create Export...
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'not{lay}': 'Metal-1-Polysilicon-1-Con[contact@5].metal-1-polysilicon-1'
+--------------- 189 --------------
+  Sat Apr 24 12:35:53 IST 2021
+ProcessKeyBinding 400 when=1619247953449 modifiers=0 code=0 char=1b false false
+--------------- 190 --------------
+  Sat Apr 24 12:35:53 IST 2021
+ProcessKeyBinding 402 when=1619247953639 modifiers=0 code=1b char=1b false false
+--------------- 191 --------------
+  Sat Apr 24 12:35:53 IST 2021
+ProcessKeyBinding 400 when=1619247953788 modifiers=0 code=0 char=1b false false
+--------------- 192 --------------
+  Sat Apr 24 12:35:53 IST 2021
+ProcessKeyBinding 402 when=1619247953932 modifiers=0 code=1b char=1b false false
+--------------- 193 --------------
+  Sat Apr 24 12:36:13 IST 2021
+ProcessKeyBinding 401 when=1619247973518 modifiers=80 code=11 char=ffff false false
+--------------- 194 --------------
+  Sat Apr 24 12:36:14 IST 2021
+ProcessKeyBinding 401 when=1619247974019 modifiers=480 code=11 char=ffff false false
+--------------- 195 --------------
+  Sat Apr 24 12:36:14 IST 2021
+ProcessKeyBinding 401 when=1619247974049 modifiers=480 code=11 char=ffff false false
+--------------- 196 --------------
+  Sat Apr 24 12:36:14 IST 2021
+ProcessKeyBinding 401 when=1619247974080 modifiers=80 code=11 char=ffff false false
+--------------- 197 --------------
+  Sat Apr 24 12:36:14 IST 2021
+ProcessKeyBinding 401 when=1619247974124 modifiers=80 code=11 char=ffff false false
+--------------- 198 --------------
+  Sat Apr 24 12:36:14 IST 2021
+ProcessKeyBinding 401 when=1619247974155 modifiers=80 code=11 char=ffff false false
+--------------- 199 --------------
+  Sat Apr 24 12:36:14 IST 2021
+ProcessKeyBinding 401 when=1619247974186 modifiers=80 code=11 char=ffff false false
+--------------- 200 --------------
+  Sat Apr 24 12:36:14 IST 2021
+ProcessKeyBinding 401 when=1619247974220 modifiers=80 code=11 char=ffff false false
+--------------- 201 --------------
+  Sat Apr 24 12:36:14 IST 2021
+ProcessKeyBinding 401 when=1619247974251 modifiers=80 code=11 char=ffff false false
+--------------- 202 --------------
+  Sat Apr 24 12:36:14 IST 2021
+ProcessKeyBinding 401 when=1619247974284 modifiers=80 code=11 char=ffff false false
+--------------- 203 --------------
+  Sat Apr 24 12:36:14 IST 2021
+ProcessKeyBinding 401 when=1619247974309 modifiers=80 code=11 char=ffff false false
+--------------- 204 --------------
+  Sat Apr 24 12:36:14 IST 2021
+ProcessKeyBinding 401 when=1619247974355 modifiers=80 code=11 char=ffff false false
+--------------- 205 --------------
+  Sat Apr 24 12:36:14 IST 2021
+ProcessKeyBinding 401 when=1619247974386 modifiers=80 code=11 char=ffff false false
+--------------- 206 --------------
+  Sat Apr 24 12:36:14 IST 2021
+ProcessKeyBinding 401 when=1619247974419 modifiers=80 code=11 char=ffff false false
+--------------- 207 --------------
+  Sat Apr 24 12:36:14 IST 2021
+ProcessKeyBinding 401 when=1619247974451 modifiers=80 code=11 char=ffff false false
+--------------- 208 --------------
+  Sat Apr 24 12:36:14 IST 2021
+ProcessKeyBinding 401 when=1619247974480 modifiers=80 code=11 char=ffff false false
+--------------- 209 --------------
+  Sat Apr 24 12:36:14 IST 2021
+ProcessKeyBinding 401 when=1619247974508 modifiers=80 code=11 char=ffff false false
+--------------- 210 --------------
+  Sat Apr 24 12:36:14 IST 2021
+ProcessKeyBinding 401 when=1619247974554 modifiers=80 code=11 char=ffff false false
+--------------- 211 --------------
+  Sat Apr 24 12:36:14 IST 2021
+ProcessKeyBinding 401 when=1619247974586 modifiers=80 code=11 char=ffff false false
+--------------- 212 --------------
+  Sat Apr 24 12:36:14 IST 2021
+ProcessKeyBinding 401 when=1619247974618 modifiers=80 code=11 char=ffff false false
+--------------- 213 --------------
+  Sat Apr 24 12:36:14 IST 2021
+ProcessKeyBinding 401 when=1619247974652 modifiers=80 code=11 char=ffff false false
+--------------- 214 --------------
+  Sat Apr 24 12:36:14 IST 2021
+ProcessKeyBinding 401 when=1619247974683 modifiers=80 code=11 char=ffff false false
+--------------- 215 --------------
+  Sat Apr 24 12:36:14 IST 2021
+ProcessKeyBinding 401 when=1619247974716 modifiers=80 code=11 char=ffff false false
+--------------- 216 --------------
+  Sat Apr 24 12:36:14 IST 2021
+ProcessKeyBinding 401 when=1619247974742 modifiers=80 code=11 char=ffff false false
+--------------- 217 --------------
+  Sat Apr 24 12:36:14 IST 2021
+ProcessKeyBinding 401 when=1619247974772 modifiers=80 code=11 char=ffff false false
+--------------- 218 --------------
+  Sat Apr 24 12:36:14 IST 2021
+ProcessKeyBinding 401 when=1619247974820 modifiers=80 code=11 char=ffff false false
+--------------- 219 --------------
+  Sat Apr 24 12:36:14 IST 2021
+ProcessKeyBinding 401 when=1619247974852 modifiers=80 code=11 char=ffff false false
+--------------- 220 --------------
+  Sat Apr 24 12:36:14 IST 2021
+ProcessKeyBinding 401 when=1619247974884 modifiers=80 code=11 char=ffff false false
+--------------- 221 --------------
+  Sat Apr 24 12:36:14 IST 2021
+ProcessKeyBinding 402 when=1619247974888 modifiers=0 code=11 char=ffff false false
+--------------- 222 --------------
+  Sat Apr 24 12:36:15 IST 2021
+ProcessKeyBinding 401 when=1619247975257 modifiers=80 code=11 char=ffff false false
+--------------- 223 --------------
+  Sat Apr 24 12:36:15 IST 2021
+ProcessKeyBinding 401 when=1619247975767 modifiers=80 code=11 char=ffff false false
+--------------- 224 --------------
+  Sat Apr 24 12:36:15 IST 2021
+ProcessKeyBinding 401 when=1619247975797 modifiers=80 code=11 char=ffff false false
+--------------- 225 --------------
+  Sat Apr 24 12:36:15 IST 2021
+ProcessKeyBinding 401 when=1619247975829 modifiers=80 code=11 char=ffff false false
+--------------- 226 --------------
+  Sat Apr 24 12:36:15 IST 2021
+ProcessKeyBinding 401 when=1619247975861 modifiers=80 code=11 char=ffff false false
+--------------- 227 --------------
+  Sat Apr 24 12:36:15 IST 2021
+ProcessKeyBinding 401 when=1619247975890 modifiers=80 code=11 char=ffff false false
+--------------- 228 --------------
+  Sat Apr 24 12:36:15 IST 2021
+ProcessKeyBinding 401 when=1619247975922 modifiers=80 code=11 char=ffff false false
+--------------- 229 --------------
+  Sat Apr 24 12:36:15 IST 2021
+ProcessKeyBinding 401 when=1619247975955 modifiers=80 code=11 char=ffff false false
+--------------- 230 --------------
+  Sat Apr 24 12:36:16 IST 2021
+ProcessKeyBinding 401 when=1619247976002 modifiers=80 code=11 char=ffff false false
+--------------- 231 --------------
+  Sat Apr 24 12:36:16 IST 2021
+ProcessKeyBinding 401 when=1619247976033 modifiers=80 code=11 char=ffff false false
+--------------- 232 --------------
+  Sat Apr 24 12:36:16 IST 2021
+ProcessKeyBinding 401 when=1619247976068 modifiers=80 code=11 char=ffff false false
+--------------- 233 --------------
+  Sat Apr 24 12:36:16 IST 2021
+ProcessKeyBinding 401 when=1619247976098 modifiers=80 code=11 char=ffff false false
+--------------- 234 --------------
+  Sat Apr 24 12:36:16 IST 2021
+ProcessKeyBinding 401 when=1619247976130 modifiers=80 code=11 char=ffff false false
+--------------- 235 --------------
+  Sat Apr 24 12:36:16 IST 2021
+ProcessKeyBinding 401 when=1619247976159 modifiers=80 code=11 char=ffff false false
+--------------- 236 --------------
+  Sat Apr 24 12:36:16 IST 2021
+ProcessKeyBinding 402 when=1619247976163 modifiers=0 code=11 char=ffff false false
+--------------- 237 --------------
+  Sat Apr 24 12:36:17 IST 2021
+Menu Activated: Export | Create Export...
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'not{lay}': 'Metal-1-Pin[pin@9].metal-1'
+--------------- 238 --------------
+  Sat Apr 24 12:36:22 IST 2021
+ProcessKeyBinding 402 when=1619247982851 modifiers=0 code=a char=a false false
+--------------- 239 --------------
+  Sat Apr 24 12:37:12 IST 2021
+ProcessKeyBinding 401 when=1619248032578 modifiers=80 code=11 char=ffff false false
+--------------- 240 --------------
+  Sat Apr 24 12:37:12 IST 2021
+Menu Activated: Edit | Undo
+Currently highlighted: 
+    Export 'vdd'
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'not{lay}': Metal-1-Pin['pin@3']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'not{lay}': Metal-1-Pin['pin@5']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'not{lay}': Metal-1-Pin['pin@11']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'not{lay}': Metal-1['net@18']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'not{lay}': Metal-1['net@19']
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'not{lay}': Metal-1['net@20']
+--------------- 241 --------------
+  Sat Apr 24 12:37:12 IST 2021
+ProcessKeyBinding 400 when=1619248032703 modifiers=80 code=0 char=1a false false
+--------------- 242 --------------
+  Sat Apr 24 12:37:13 IST 2021
+ProcessKeyBinding 402 when=1619248033131 modifiers=0 code=11 char=ffff false false
+--------------- 243 --------------
+  Sat Apr 24 12:38:21 IST 2021
+ProcessKeyBinding 401 when=1619248101819 modifiers=80 code=11 char=ffff false false
+--------------- 244 --------------
+  Sat Apr 24 12:38:22 IST 2021
+ProcessKeyBinding 401 when=1619248102326 modifiers=80 code=11 char=ffff false false
+--------------- 245 --------------
+  Sat Apr 24 12:38:22 IST 2021
+ProcessKeyBinding 401 when=1619248102357 modifiers=80 code=11 char=ffff false false
+--------------- 246 --------------
+  Sat Apr 24 12:38:22 IST 2021
+ProcessKeyBinding 401 when=1619248102390 modifiers=80 code=11 char=ffff false false
+--------------- 247 --------------
+  Sat Apr 24 12:38:22 IST 2021
+ProcessKeyBinding 401 when=1619248102423 modifiers=80 code=11 char=ffff false false
+--------------- 248 --------------
+  Sat Apr 24 12:38:22 IST 2021
+ProcessKeyBinding 401 when=1619248102452 modifiers=80 code=11 char=ffff false false
+--------------- 249 --------------
+  Sat Apr 24 12:38:22 IST 2021
+ProcessKeyBinding 401 when=1619248102484 modifiers=80 code=11 char=ffff false false
+--------------- 250 --------------
+  Sat Apr 24 12:38:22 IST 2021
+ProcessKeyBinding 401 when=1619248102529 modifiers=80 code=11 char=ffff false false
+--------------- 251 --------------
+  Sat Apr 24 12:38:22 IST 2021
+ProcessKeyBinding 401 when=1619248102558 modifiers=80 code=11 char=ffff false false
+--------------- 252 --------------
+  Sat Apr 24 12:38:22 IST 2021
+ProcessKeyBinding 401 when=1619248102593 modifiers=80 code=11 char=ffff false false
+--------------- 253 --------------
+  Sat Apr 24 12:38:22 IST 2021
+ProcessKeyBinding 401 when=1619248102625 modifiers=80 code=11 char=ffff false false
+--------------- 254 --------------
+  Sat Apr 24 12:38:22 IST 2021
+ProcessKeyBinding 401 when=1619248102657 modifiers=80 code=11 char=ffff false false
+--------------- 255 --------------
+  Sat Apr 24 12:38:22 IST 2021
+ProcessKeyBinding 401 when=1619248102686 modifiers=80 code=11 char=ffff false false
+--------------- 256 --------------
+  Sat Apr 24 12:38:22 IST 2021
+ProcessKeyBinding 401 when=1619248102717 modifiers=80 code=11 char=ffff false false
+--------------- 257 --------------
+  Sat Apr 24 12:38:22 IST 2021
+ProcessKeyBinding 401 when=1619248102749 modifiers=80 code=11 char=ffff false false
+--------------- 258 --------------
+  Sat Apr 24 12:38:22 IST 2021
+ProcessKeyBinding 401 when=1619248102791 modifiers=80 code=11 char=ffff false false
+--------------- 259 --------------
+  Sat Apr 24 12:38:22 IST 2021
+ProcessKeyBinding 402 when=1619248102807 modifiers=0 code=11 char=ffff false false
+--------------- 260 --------------
+  Sat Apr 24 12:38:37 IST 2021
+ProcessKeyBinding 400 when=1619248117400 modifiers=0 code=0 char=1b false false
+--------------- 261 --------------
+  Sat Apr 24 12:38:37 IST 2021
+ProcessKeyBinding 402 when=1619248117538 modifiers=0 code=1b char=1b false false
+--------------- 262 --------------
+  Sat Apr 24 12:38:39 IST 2021
+ProcessKeyBinding 400 when=1619248119050 modifiers=0 code=0 char=1b false false
+--------------- 263 --------------
+  Sat Apr 24 12:38:39 IST 2021
+ProcessKeyBinding 402 when=1619248119170 modifiers=0 code=1b char=1b false false
+--------------- 264 --------------
+  Sat Apr 24 12:38:40 IST 2021
+ProcessKeyBinding 401 when=1619248120440 modifiers=80 code=11 char=ffff false false
+--------------- 265 --------------
+  Sat Apr 24 12:38:40 IST 2021
+Menu Activated: Edit | Undo
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'not{lay}': N-Transistor['nmos@1']
+--------------- 266 --------------
+  Sat Apr 24 12:38:40 IST 2021
+ProcessKeyBinding 400 when=1619248120560 modifiers=80 code=0 char=1a false false
+--------------- 267 --------------
+  Sat Apr 24 12:38:40 IST 2021
+ProcessKeyBinding 402 when=1619248120777 modifiers=0 code=11 char=ffff false false
+--------------- 268 --------------
+  Sat Apr 24 12:38:52 IST 2021
+ProcessKeyBinding 401 when=1619248132808 modifiers=80 code=11 char=ffff false false
+--------------- 269 --------------
+  Sat Apr 24 12:38:53 IST 2021
+ProcessKeyBinding 401 when=1619248133316 modifiers=80 code=11 char=ffff false false
+--------------- 270 --------------
+  Sat Apr 24 12:38:53 IST 2021
+ProcessKeyBinding 401 when=1619248133349 modifiers=80 code=11 char=ffff false false
+--------------- 271 --------------
+  Sat Apr 24 12:38:53 IST 2021
+ProcessKeyBinding 401 when=1619248133376 modifiers=80 code=11 char=ffff false false
+--------------- 272 --------------
+  Sat Apr 24 12:38:53 IST 2021
+ProcessKeyBinding 401 when=1619248133425 modifiers=80 code=11 char=ffff false false
+--------------- 273 --------------
+  Sat Apr 24 12:38:53 IST 2021
+ProcessKeyBinding 401 when=1619248133454 modifiers=80 code=11 char=ffff false false
+--------------- 274 --------------
+  Sat Apr 24 12:38:53 IST 2021
+ProcessKeyBinding 401 when=1619248133484 modifiers=80 code=11 char=ffff false false
+--------------- 275 --------------
+  Sat Apr 24 12:38:53 IST 2021
+ProcessKeyBinding 401 when=1619248133516 modifiers=80 code=11 char=ffff false false
+--------------- 276 --------------
+  Sat Apr 24 12:38:53 IST 2021
+ProcessKeyBinding 401 when=1619248133548 modifiers=80 code=11 char=ffff false false
+--------------- 277 --------------
+  Sat Apr 24 12:38:53 IST 2021
+ProcessKeyBinding 401 when=1619248133580 modifiers=80 code=11 char=ffff false false
+--------------- 278 --------------
+  Sat Apr 24 12:38:53 IST 2021
+ProcessKeyBinding 401 when=1619248133608 modifiers=80 code=11 char=ffff false false
+--------------- 279 --------------
+  Sat Apr 24 12:38:53 IST 2021
+ProcessKeyBinding 401 when=1619248133639 modifiers=80 code=11 char=ffff false false
+--------------- 280 --------------
+  Sat Apr 24 12:38:53 IST 2021
+ProcessKeyBinding 401 when=1619248133684 modifiers=80 code=11 char=ffff false false
+--------------- 281 --------------
+  Sat Apr 24 12:38:53 IST 2021
+ProcessKeyBinding 401 when=1619248133716 modifiers=80 code=11 char=ffff false false
+--------------- 282 --------------
+  Sat Apr 24 12:38:53 IST 2021
+ProcessKeyBinding 401 when=1619248133748 modifiers=80 code=11 char=ffff false false
+--------------- 283 --------------
+  Sat Apr 24 12:38:53 IST 2021
+ProcessKeyBinding 401 when=1619248133779 modifiers=80 code=11 char=ffff false false
+--------------- 284 --------------
+  Sat Apr 24 12:38:53 IST 2021
+ProcessKeyBinding 401 when=1619248133808 modifiers=80 code=11 char=ffff false false
+--------------- 285 --------------
+  Sat Apr 24 12:38:53 IST 2021
+ProcessKeyBinding 401 when=1619248133842 modifiers=80 code=11 char=ffff false false
+--------------- 286 --------------
+  Sat Apr 24 12:38:53 IST 2021
+ProcessKeyBinding 401 when=1619248133873 modifiers=80 code=11 char=ffff false false
+--------------- 287 --------------
+  Sat Apr 24 12:38:53 IST 2021
+ProcessKeyBinding 401 when=1619248133904 modifiers=80 code=11 char=ffff false false
+--------------- 288 --------------
+  Sat Apr 24 12:38:53 IST 2021
+ProcessKeyBinding 401 when=1619248133935 modifiers=80 code=11 char=ffff false false
+--------------- 289 --------------
+  Sat Apr 24 12:38:53 IST 2021
+ProcessKeyBinding 401 when=1619248133983 modifiers=80 code=11 char=ffff false false
+--------------- 290 --------------
+  Sat Apr 24 12:38:54 IST 2021
+ProcessKeyBinding 401 when=1619248134017 modifiers=80 code=11 char=ffff false false
+--------------- 291 --------------
+  Sat Apr 24 12:38:54 IST 2021
+ProcessKeyBinding 402 when=1619248134018 modifiers=0 code=11 char=ffff false false
+--------------- 292 --------------
+  Sat Apr 24 12:38:57 IST 2021
+ProcessKeyBinding 401 when=1619248137608 modifiers=80 code=11 char=ffff false false
+--------------- 293 --------------
+  Sat Apr 24 12:38:58 IST 2021
+ProcessKeyBinding 401 when=1619248138118 modifiers=80 code=11 char=ffff false false
+--------------- 294 --------------
+  Sat Apr 24 12:38:58 IST 2021
+ProcessKeyBinding 401 when=1619248138151 modifiers=80 code=11 char=ffff false false
+--------------- 295 --------------
+  Sat Apr 24 12:38:58 IST 2021
+ProcessKeyBinding 401 when=1619248138183 modifiers=80 code=11 char=ffff false false
+--------------- 296 --------------
+  Sat Apr 24 12:38:58 IST 2021
+ProcessKeyBinding 401 when=1619248138216 modifiers=80 code=11 char=ffff false false
+--------------- 297 --------------
+  Sat Apr 24 12:38:58 IST 2021
+ProcessKeyBinding 401 when=1619248138249 modifiers=80 code=11 char=ffff false false
+--------------- 298 --------------
+  Sat Apr 24 12:38:58 IST 2021
+ProcessKeyBinding 401 when=1619248138275 modifiers=80 code=11 char=ffff false false
+--------------- 299 --------------
+  Sat Apr 24 12:38:58 IST 2021
+ProcessKeyBinding 401 when=1619248138307 modifiers=80 code=11 char=ffff false false
+--------------- 300 --------------
+  Sat Apr 24 12:38:58 IST 2021
+ProcessKeyBinding 401 when=1619248138354 modifiers=80 code=11 char=ffff false false
+--------------- 301 --------------
+  Sat Apr 24 12:38:58 IST 2021
+ProcessKeyBinding 402 when=1619248138385 modifiers=0 code=11 char=ffff false false
+--------------- 302 --------------
+  Sat Apr 24 12:39:33 IST 2021
+Menu Activated: Tools | DRC | Check Hierarchically
+--------------- 303 --------------
+  Sat Apr 24 12:39:57 IST 2021
+ProcessKeyBinding 401 when=1619248197601 modifiers=80 code=11 char=ffff false false
+--------------- 304 --------------
+  Sat Apr 24 12:39:58 IST 2021
+ProcessKeyBinding 401 when=1619248198109 modifiers=80 code=11 char=ffff false false
+--------------- 305 --------------
+  Sat Apr 24 12:39:58 IST 2021
+ProcessKeyBinding 401 when=1619248198139 modifiers=80 code=11 char=ffff false false
+--------------- 306 --------------
+  Sat Apr 24 12:39:58 IST 2021
+ProcessKeyBinding 401 when=1619248198170 modifiers=80 code=11 char=ffff false false
+--------------- 307 --------------
+  Sat Apr 24 12:39:58 IST 2021
+ProcessKeyBinding 401 when=1619248198203 modifiers=80 code=11 char=ffff false false
+--------------- 308 --------------
+  Sat Apr 24 12:39:58 IST 2021
+ProcessKeyBinding 402 when=1619248198221 modifiers=0 code=11 char=ffff false false
+--------------- 309 --------------
+  Sat Apr 24 12:39:59 IST 2021
+ProcessKeyBinding 401 when=1619248199217 modifiers=80 code=11 char=ffff false false
+--------------- 310 --------------
+  Sat Apr 24 12:39:59 IST 2021
+ProcessKeyBinding 401 when=1619248199727 modifiers=80 code=11 char=ffff false false
+--------------- 311 --------------
+  Sat Apr 24 12:39:59 IST 2021
+ProcessKeyBinding 401 when=1619248199757 modifiers=80 code=11 char=ffff false false
+--------------- 312 --------------
+  Sat Apr 24 12:39:59 IST 2021
+ProcessKeyBinding 401 when=1619248199789 modifiers=80 code=11 char=ffff false false
+--------------- 313 --------------
+  Sat Apr 24 12:39:59 IST 2021
+ProcessKeyBinding 401 when=1619248199821 modifiers=80 code=11 char=ffff false false
+--------------- 314 --------------
+  Sat Apr 24 12:39:59 IST 2021
+ProcessKeyBinding 401 when=1619248199853 modifiers=80 code=11 char=ffff false false
+--------------- 315 --------------
+  Sat Apr 24 12:39:59 IST 2021
+ProcessKeyBinding 401 when=1619248199884 modifiers=80 code=11 char=ffff false false
+--------------- 316 --------------
+  Sat Apr 24 12:39:59 IST 2021
+ProcessKeyBinding 401 when=1619248199929 modifiers=80 code=11 char=ffff false false
+--------------- 317 --------------
+  Sat Apr 24 12:39:59 IST 2021
+ProcessKeyBinding 401 when=1619248199960 modifiers=80 code=11 char=ffff false false
+--------------- 318 --------------
+  Sat Apr 24 12:39:59 IST 2021
+ProcessKeyBinding 401 when=1619248199991 modifiers=80 code=11 char=ffff false false
+--------------- 319 --------------
+  Sat Apr 24 12:40:00 IST 2021
+ProcessKeyBinding 401 when=1619248200025 modifiers=80 code=11 char=ffff false false
+--------------- 320 --------------
+  Sat Apr 24 12:40:00 IST 2021
+ProcessKeyBinding 401 when=1619248200054 modifiers=80 code=11 char=ffff false false
+--------------- 321 --------------
+  Sat Apr 24 12:40:00 IST 2021
+ProcessKeyBinding 401 when=1619248200088 modifiers=80 code=11 char=ffff false false
+--------------- 322 --------------
+  Sat Apr 24 12:40:00 IST 2021
+ProcessKeyBinding 401 when=1619248200118 modifiers=80 code=11 char=ffff false false
+--------------- 323 --------------
+  Sat Apr 24 12:40:00 IST 2021
+ProcessKeyBinding 401 when=1619248200149 modifiers=80 code=11 char=ffff false false
+--------------- 324 --------------
+  Sat Apr 24 12:40:00 IST 2021
+ProcessKeyBinding 402 when=1619248200159 modifiers=0 code=11 char=ffff false false
+--------------- 325 --------------
+  Sat Apr 24 12:41:05 IST 2021
+Menu Activated: File | Save Library
+--------------- 326 --------------
+  Sat Apr 24 12:41:07 IST 2021
+Menu Activated: Tools | DRC | Check Hierarchically
+--------------- 327 --------------
+  Sat Apr 24 12:41:22 IST 2021
+ProcessKeyBinding 402 when=1619248282471 modifiers=0 code=a char=a false false
+--------------- 328 --------------
+  Sat Apr 24 12:41:24 IST 2021
+ProcessKeyBinding 401 when=1619248284482 modifiers=80 code=11 char=ffff false false
+--------------- 329 --------------
+  Sat Apr 24 12:41:24 IST 2021
+Menu Activated: Edit | Undo
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'not{lay}': 'Metal-1-N-Well-Con[well@0].metal-1-substrate'
+--------------- 330 --------------
+  Sat Apr 24 12:41:24 IST 2021
+ProcessKeyBinding 400 when=1619248284610 modifiers=80 code=0 char=1a false false
+--------------- 331 --------------
+  Sat Apr 24 12:41:24 IST 2021
+ProcessKeyBinding 402 when=1619248284904 modifiers=0 code=11 char=ffff false false
+--------------- 332 --------------
+  Sat Apr 24 12:41:37 IST 2021
+ProcessKeyBinding 402 when=1619248297250 modifiers=0 code=a char=a false false
+--------------- 333 --------------
+  Sat Apr 24 12:41:52 IST 2021
+Menu Activated: Edit | Erase | Selected
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'not{lay}': Metal-1['net@23']
+--------------- 334 --------------
+  Sat Apr 24 12:41:52 IST 2021
+ProcessKeyBinding 400 when=1619248312041 modifiers=0 code=0 char=7f false false
+--------------- 335 --------------
+  Sat Apr 24 12:42:09 IST 2021
+Menu Activated: File | Save Library
+--------------- 336 --------------
+  Sat Apr 24 12:42:10 IST 2021
+Menu Activated: Tools | DRC | Check Hierarchically
+--------------- 337 --------------
+  Sat Apr 24 12:42:22 IST 2021
+Menu Activated: Tools | DRC | Check Hierarchically
+--------------- 338 --------------
+  Sat Apr 24 12:42:29 IST 2021
+ProcessKeyBinding 401 when=1619248349728 modifiers=80 code=11 char=ffff false false
+--------------- 339 --------------
+  Sat Apr 24 12:42:30 IST 2021
+ProcessKeyBinding 401 when=1619248350237 modifiers=80 code=11 char=ffff false false
+--------------- 340 --------------
+  Sat Apr 24 12:42:30 IST 2021
+ProcessKeyBinding 401 when=1619248350271 modifiers=80 code=11 char=ffff false false
+--------------- 341 --------------
+  Sat Apr 24 12:42:30 IST 2021
+ProcessKeyBinding 401 when=1619248350298 modifiers=80 code=11 char=ffff false false
+--------------- 342 --------------
+  Sat Apr 24 12:42:30 IST 2021
+ProcessKeyBinding 401 when=1619248350329 modifiers=80 code=11 char=ffff false false
+--------------- 343 --------------
+  Sat Apr 24 12:42:30 IST 2021
+ProcessKeyBinding 401 when=1619248350375 modifiers=80 code=11 char=ffff false false
+--------------- 344 --------------
+  Sat Apr 24 12:42:30 IST 2021
+ProcessKeyBinding 401 when=1619248350405 modifiers=80 code=11 char=ffff false false
+--------------- 345 --------------
+  Sat Apr 24 12:42:30 IST 2021
+ProcessKeyBinding 401 when=1619248350438 modifiers=80 code=11 char=ffff false false
+--------------- 346 --------------
+  Sat Apr 24 12:42:30 IST 2021
+ProcessKeyBinding 401 when=1619248350470 modifiers=80 code=11 char=ffff false false
+--------------- 347 --------------
+  Sat Apr 24 12:42:30 IST 2021
+ProcessKeyBinding 401 when=1619248350502 modifiers=80 code=11 char=ffff false false
+--------------- 348 --------------
+  Sat Apr 24 12:42:30 IST 2021
+ProcessKeyBinding 401 when=1619248350535 modifiers=80 code=11 char=ffff false false
+--------------- 349 --------------
+  Sat Apr 24 12:42:30 IST 2021
+ProcessKeyBinding 401 when=1619248350563 modifiers=80 code=11 char=ffff false false
+--------------- 350 --------------
+  Sat Apr 24 12:42:30 IST 2021
+ProcessKeyBinding 401 when=1619248350593 modifiers=80 code=11 char=ffff false false
+--------------- 351 --------------
+  Sat Apr 24 12:42:30 IST 2021
+ProcessKeyBinding 401 when=1619248350625 modifiers=80 code=11 char=ffff false false
+--------------- 352 --------------
+  Sat Apr 24 12:42:30 IST 2021
+ProcessKeyBinding 401 when=1619248350672 modifiers=80 code=11 char=ffff false false
+--------------- 353 --------------
+  Sat Apr 24 12:42:30 IST 2021
+ProcessKeyBinding 402 when=1619248350684 modifiers=0 code=11 char=ffff false false
+--------------- 354 --------------
+  Sat Apr 24 12:42:31 IST 2021
+ProcessKeyBinding 401 when=1619248351560 modifiers=80 code=11 char=ffff false false
+--------------- 355 --------------
+  Sat Apr 24 12:42:32 IST 2021
+ProcessKeyBinding 401 when=1619248352061 modifiers=80 code=11 char=ffff false false
+--------------- 356 --------------
+  Sat Apr 24 12:42:32 IST 2021
+ProcessKeyBinding 401 when=1619248352106 modifiers=80 code=11 char=ffff false false
+--------------- 357 --------------
+  Sat Apr 24 12:42:32 IST 2021
+ProcessKeyBinding 401 when=1619248352137 modifiers=80 code=11 char=ffff false false
+--------------- 358 --------------
+  Sat Apr 24 12:42:32 IST 2021
+ProcessKeyBinding 401 when=1619248352169 modifiers=80 code=11 char=ffff false false
+--------------- 359 --------------
+  Sat Apr 24 12:42:32 IST 2021
+ProcessKeyBinding 401 when=1619248352200 modifiers=80 code=11 char=ffff false false
+--------------- 360 --------------
+  Sat Apr 24 12:42:32 IST 2021
+ProcessKeyBinding 401 when=1619248352231 modifiers=80 code=11 char=ffff false false
+--------------- 361 --------------
+  Sat Apr 24 12:42:32 IST 2021
+ProcessKeyBinding 401 when=1619248352262 modifiers=80 code=11 char=ffff false false
+--------------- 362 --------------
+  Sat Apr 24 12:42:32 IST 2021
+ProcessKeyBinding 401 when=1619248352306 modifiers=80 code=11 char=ffff false false
+--------------- 363 --------------
+  Sat Apr 24 12:42:32 IST 2021
+ProcessKeyBinding 401 when=1619248352336 modifiers=80 code=11 char=ffff false false
+--------------- 364 --------------
+  Sat Apr 24 12:42:32 IST 2021
+ProcessKeyBinding 401 when=1619248352368 modifiers=80 code=11 char=ffff false false
+--------------- 365 --------------
+  Sat Apr 24 12:42:32 IST 2021
+ProcessKeyBinding 401 when=1619248352399 modifiers=80 code=11 char=ffff false false
+--------------- 366 --------------
+  Sat Apr 24 12:42:32 IST 2021
+ProcessKeyBinding 401 when=1619248352432 modifiers=80 code=11 char=ffff false false
+--------------- 367 --------------
+  Sat Apr 24 12:42:32 IST 2021
+ProcessKeyBinding 401 when=1619248352461 modifiers=80 code=11 char=ffff false false
+--------------- 368 --------------
+  Sat Apr 24 12:42:32 IST 2021
+ProcessKeyBinding 401 when=1619248352492 modifiers=80 code=11 char=ffff false false
+--------------- 369 --------------
+  Sat Apr 24 12:42:32 IST 2021
+ProcessKeyBinding 401 when=1619248352524 modifiers=80 code=11 char=ffff false false
+--------------- 370 --------------
+  Sat Apr 24 12:42:32 IST 2021
+ProcessKeyBinding 401 when=1619248352558 modifiers=80 code=11 char=ffff false false
+--------------- 371 --------------
+  Sat Apr 24 12:42:32 IST 2021
+ProcessKeyBinding 401 when=1619248352603 modifiers=80 code=11 char=ffff false false
+--------------- 372 --------------
+  Sat Apr 24 12:42:32 IST 2021
+ProcessKeyBinding 402 when=1619248352634 modifiers=0 code=11 char=ffff false false
+--------------- 373 --------------
+  Sat Apr 24 12:42:43 IST 2021
+ProcessKeyBinding 401 when=1619248363116 modifiers=80 code=11 char=ffff false false
+--------------- 374 --------------
+  Sat Apr 24 12:42:43 IST 2021
+ProcessKeyBinding 401 when=1619248363627 modifiers=80 code=11 char=ffff false false
+--------------- 375 --------------
+  Sat Apr 24 12:42:43 IST 2021
+ProcessKeyBinding 401 when=1619248363659 modifiers=80 code=11 char=ffff false false
+--------------- 376 --------------
+  Sat Apr 24 12:42:43 IST 2021
+ProcessKeyBinding 401 when=1619248363690 modifiers=80 code=11 char=ffff false false
+--------------- 377 --------------
+  Sat Apr 24 12:42:43 IST 2021
+ProcessKeyBinding 401 when=1619248363720 modifiers=80 code=11 char=ffff false false
+--------------- 378 --------------
+  Sat Apr 24 12:42:43 IST 2021
+ProcessKeyBinding 401 when=1619248363750 modifiers=80 code=11 char=ffff false false
+--------------- 379 --------------
+  Sat Apr 24 12:42:43 IST 2021
+ProcessKeyBinding 402 when=1619248363752 modifiers=0 code=11 char=ffff false false
+--------------- 380 --------------
+  Sat Apr 24 12:42:49 IST 2021
+Menu Activated: Tools | Simulation (Spice) | Set Spice Model...
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'not{lay}': 'P-Transistor[pmos@0].diff-top'
+--------------- 381 --------------
+  Sat Apr 24 12:42:53 IST 2021
+ProcessKeyBinding 401 when=1619248373930 modifiers=80 code=11 char=ffff false false
+--------------- 382 --------------
+  Sat Apr 24 12:42:54 IST 2021
+ProcessKeyBinding 401 when=1619248374439 modifiers=80 code=11 char=ffff false false
+--------------- 383 --------------
+  Sat Apr 24 12:42:54 IST 2021
+ProcessKeyBinding 401 when=1619248374470 modifiers=80 code=11 char=ffff false false
+--------------- 384 --------------
+  Sat Apr 24 12:42:54 IST 2021
+ProcessKeyBinding 401 when=1619248374502 modifiers=80 code=11 char=ffff false false
+--------------- 385 --------------
+  Sat Apr 24 12:42:54 IST 2021
+ProcessKeyBinding 401 when=1619248374534 modifiers=80 code=11 char=ffff false false
+--------------- 386 --------------
+  Sat Apr 24 12:42:54 IST 2021
+ProcessKeyBinding 401 when=1619248374567 modifiers=80 code=11 char=ffff false false
+--------------- 387 --------------
+  Sat Apr 24 12:42:54 IST 2021
+ProcessKeyBinding 401 when=1619248374598 modifiers=80 code=11 char=ffff false false
+--------------- 388 --------------
+  Sat Apr 24 12:42:54 IST 2021
+ProcessKeyBinding 401 when=1619248374628 modifiers=80 code=11 char=ffff false false
+--------------- 389 --------------
+  Sat Apr 24 12:42:54 IST 2021
+ProcessKeyBinding 401 when=1619248374659 modifiers=80 code=11 char=ffff false false
+--------------- 390 --------------
+  Sat Apr 24 12:42:54 IST 2021
+ProcessKeyBinding 401 when=1619248374705 modifiers=80 code=11 char=ffff false false
+--------------- 391 --------------
+  Sat Apr 24 12:42:54 IST 2021
+ProcessKeyBinding 401 when=1619248374738 modifiers=80 code=11 char=ffff false false
+--------------- 392 --------------
+  Sat Apr 24 12:42:54 IST 2021
+ProcessKeyBinding 401 when=1619248374768 modifiers=80 code=11 char=ffff false false
+--------------- 393 --------------
+  Sat Apr 24 12:42:54 IST 2021
+ProcessKeyBinding 401 when=1619248374799 modifiers=80 code=11 char=ffff false false
+--------------- 394 --------------
+  Sat Apr 24 12:42:54 IST 2021
+ProcessKeyBinding 401 when=1619248374831 modifiers=80 code=11 char=ffff false false
+--------------- 395 --------------
+  Sat Apr 24 12:42:54 IST 2021
+ProcessKeyBinding 401 when=1619248374862 modifiers=80 code=11 char=ffff false false
+--------------- 396 --------------
+  Sat Apr 24 12:42:54 IST 2021
+ProcessKeyBinding 401 when=1619248374894 modifiers=80 code=11 char=ffff false false
+--------------- 397 --------------
+  Sat Apr 24 12:42:54 IST 2021
+ProcessKeyBinding 401 when=1619248374924 modifiers=80 code=11 char=ffff false false
+--------------- 398 --------------
+  Sat Apr 24 12:42:54 IST 2021
+ProcessKeyBinding 401 when=1619248374956 modifiers=80 code=11 char=ffff false false
+--------------- 399 --------------
+  Sat Apr 24 12:42:55 IST 2021
+ProcessKeyBinding 401 when=1619248375001 modifiers=80 code=11 char=ffff false false
+--------------- 400 --------------
+  Sat Apr 24 12:42:55 IST 2021
+ProcessKeyBinding 401 when=1619248375034 modifiers=80 code=11 char=ffff false false
+--------------- 401 --------------
+  Sat Apr 24 12:42:55 IST 2021
+ProcessKeyBinding 401 when=1619248375066 modifiers=80 code=11 char=ffff false false
+--------------- 402 --------------
+  Sat Apr 24 12:42:55 IST 2021
+ProcessKeyBinding 401 when=1619248375099 modifiers=80 code=11 char=ffff false false
+--------------- 403 --------------
+  Sat Apr 24 12:42:55 IST 2021
+ProcessKeyBinding 402 when=1619248375116 modifiers=0 code=11 char=ffff false false
+--------------- 404 --------------
+  Sat Apr 24 12:43:00 IST 2021
+ProcessKeyBinding 401 when=1619248380626 modifiers=80 code=11 char=ffff false false
+--------------- 405 --------------
+  Sat Apr 24 12:43:01 IST 2021
+ProcessKeyBinding 401 when=1619248381129 modifiers=80 code=11 char=ffff false false
+--------------- 406 --------------
+  Sat Apr 24 12:43:01 IST 2021
+ProcessKeyBinding 401 when=1619248381159 modifiers=80 code=11 char=ffff false false
+--------------- 407 --------------
+  Sat Apr 24 12:43:01 IST 2021
+ProcessKeyBinding 401 when=1619248381195 modifiers=80 code=11 char=ffff false false
+--------------- 408 --------------
+  Sat Apr 24 12:43:01 IST 2021
+ProcessKeyBinding 401 when=1619248381237 modifiers=80 code=11 char=ffff false false
+--------------- 409 --------------
+  Sat Apr 24 12:43:01 IST 2021
+ProcessKeyBinding 401 when=1619248381268 modifiers=80 code=11 char=ffff false false
+--------------- 410 --------------
+  Sat Apr 24 12:43:01 IST 2021
+ProcessKeyBinding 401 when=1619248381299 modifiers=480 code=11 char=ffff false false
+--------------- 411 --------------
+  Sat Apr 24 12:43:01 IST 2021
+ProcessKeyBinding 401 when=1619248381331 modifiers=480 code=11 char=ffff false false
+--------------- 412 --------------
+  Sat Apr 24 12:43:01 IST 2021
+ProcessKeyBinding 401 when=1619248381362 modifiers=480 code=11 char=ffff false false
+--------------- 413 --------------
+  Sat Apr 24 12:43:01 IST 2021
+ProcessKeyBinding 401 when=1619248381394 modifiers=480 code=11 char=ffff false false
+--------------- 414 --------------
+  Sat Apr 24 12:43:01 IST 2021
+ProcessKeyBinding 401 when=1619248381427 modifiers=80 code=11 char=ffff false false
+--------------- 415 --------------
+  Sat Apr 24 12:43:01 IST 2021
+ProcessKeyBinding 401 when=1619248381457 modifiers=80 code=11 char=ffff false false
+--------------- 416 --------------
+  Sat Apr 24 12:43:01 IST 2021
+ProcessKeyBinding 401 when=1619248381489 modifiers=80 code=11 char=ffff false false
+--------------- 417 --------------
+  Sat Apr 24 12:43:01 IST 2021
+ProcessKeyBinding 401 when=1619248381535 modifiers=80 code=11 char=ffff false false
+--------------- 418 --------------
+  Sat Apr 24 12:43:01 IST 2021
+ProcessKeyBinding 401 when=1619248381566 modifiers=80 code=11 char=ffff false false
+--------------- 419 --------------
+  Sat Apr 24 12:43:01 IST 2021
+ProcessKeyBinding 401 when=1619248381596 modifiers=80 code=11 char=ffff false false
+--------------- 420 --------------
+  Sat Apr 24 12:43:01 IST 2021
+ProcessKeyBinding 401 when=1619248381628 modifiers=80 code=11 char=ffff false false
+--------------- 421 --------------
+  Sat Apr 24 12:43:01 IST 2021
+ProcessKeyBinding 401 when=1619248381658 modifiers=80 code=11 char=ffff false false
+--------------- 422 --------------
+  Sat Apr 24 12:43:01 IST 2021
+ProcessKeyBinding 401 when=1619248381691 modifiers=80 code=11 char=ffff false false
+--------------- 423 --------------
+  Sat Apr 24 12:43:01 IST 2021
+ProcessKeyBinding 401 when=1619248381724 modifiers=80 code=11 char=ffff false false
+--------------- 424 --------------
+  Sat Apr 24 12:43:01 IST 2021
+ProcessKeyBinding 401 when=1619248381753 modifiers=80 code=11 char=ffff false false
+--------------- 425 --------------
+  Sat Apr 24 12:43:01 IST 2021
+ProcessKeyBinding 401 when=1619248381798 modifiers=80 code=11 char=ffff false false
+--------------- 426 --------------
+  Sat Apr 24 12:43:01 IST 2021
+ProcessKeyBinding 402 when=1619248381810 modifiers=0 code=11 char=ffff false false
+--------------- 427 --------------
+  Sat Apr 24 12:43:05 IST 2021
+ProcessKeyBinding 401 when=1619248385715 modifiers=80 code=11 char=ffff false false
+--------------- 428 --------------
+  Sat Apr 24 12:43:05 IST 2021
+Menu Activated: Edit | Properties | Object Properties...
+Currently highlighted: 
+    SPICE model on node P-Transistor['pmos@0']
+--------------- 429 --------------
+  Sat Apr 24 12:43:09 IST 2021
+ProcessKeyBinding 400 when=1619248385992 modifiers=80 code=0 char=9 false false
+--------------- 430 --------------
+  Sat Apr 24 12:43:09 IST 2021
+ProcessKeyBinding 402 when=1619248386273 modifiers=0 code=11 char=ffff false false
+--------------- 431 --------------
+  Sat Apr 24 12:43:09 IST 2021
+ProcessKeyBinding 401 when=1619248387546 modifiers=80 code=11 char=ffff false false
+--------------- 432 --------------
+  Sat Apr 24 12:43:09 IST 2021
+Menu Activated: Edit | Properties | Object Properties...
+Currently highlighted: 
+    SPICE model on node P-Transistor['pmos@0']
+--------------- 433 --------------
+  Sat Apr 24 12:43:09 IST 2021
+ProcessKeyBinding 400 when=1619248387736 modifiers=80 code=0 char=9 false false
+--------------- 434 --------------
+  Sat Apr 24 12:43:09 IST 2021
+ProcessKeyBinding 402 when=1619248388154 modifiers=0 code=11 char=ffff false false
+--------------- 435 --------------
+  Sat Apr 24 12:43:16 IST 2021
+ProcessKeyBinding 401 when=1619248396284 modifiers=80 code=11 char=ffff false false
+--------------- 436 --------------
+  Sat Apr 24 12:43:16 IST 2021
+Menu Activated: Edit | Properties | Object Properties...
+Currently highlighted: 
+    SPICE model on node P-Transistor['pmos@0']
+--------------- 437 --------------
+  Sat Apr 24 12:43:16 IST 2021
+ProcessKeyBinding 400 when=1619248396423 modifiers=80 code=0 char=9 false false
+--------------- 438 --------------
+  Sat Apr 24 12:43:36 IST 2021
+Menu Activated: Tools | Simulation (Spice) | Set Spice Model...
+Currently highlighted: 
+    com.sun.electric.tool.user.HighlightEOBJ in cell 'not{lay}': 'N-Transistor[nmos@0].diff-bottom'
+--------------- 439 --------------
+  Sat Apr 24 12:43:37 IST 2021
+ProcessKeyBinding 401 when=1619248417947 modifiers=80 code=11 char=ffff false false
+--------------- 440 --------------
+  Sat Apr 24 12:43:38 IST 2021
+ProcessKeyBinding 401 when=1619248418459 modifiers=80 code=11 char=ffff false false
+--------------- 441 --------------
+  Sat Apr 24 12:43:38 IST 2021
+ProcessKeyBinding 401 when=1619248418488 modifiers=80 code=11 char=ffff false false
+--------------- 442 --------------
+  Sat Apr 24 12:43:38 IST 2021
+ProcessKeyBinding 401 when=1619248418518 modifiers=80 code=11 char=ffff false false
+--------------- 443 --------------
+  Sat Apr 24 12:43:38 IST 2021
+ProcessKeyBinding 401 when=1619248418552 modifiers=80 code=11 char=ffff false false
+--------------- 444 --------------
+  Sat Apr 24 12:43:38 IST 2021
+ProcessKeyBinding 401 when=1619248418583 modifiers=80 code=11 char=ffff false false
+--------------- 445 --------------
+  Sat Apr 24 12:43:38 IST 2021
+ProcessKeyBinding 402 when=1619248418594 modifiers=0 code=11 char=ffff false false
+--------------- 446 --------------
+  Sat Apr 24 12:43:39 IST 2021
+ProcessKeyBinding 401 when=1619248419489 modifiers=80 code=11 char=ffff false false
+--------------- 447 --------------
+  Sat Apr 24 12:43:39 IST 2021
+Menu Activated: Edit | Properties | Object Properties...
+Currently highlighted: 
+    SPICE model on node N-Transistor['nmos@0']
+--------------- 448 --------------
+  Sat Apr 24 12:43:39 IST 2021
+ProcessKeyBinding 400 when=1619248419675 modifiers=80 code=0 char=9 false false
+--------------- 449 --------------
+  Sat Apr 24 12:43:43 IST 2021
+ProcessKeyBinding 402 when=1619248423201 modifiers=0 code=a char=a false false
+--------------- 450 --------------
+  Sat Apr 24 12:44:01 IST 2021
+ProcessKeyBinding 401 when=1619248441856 modifiers=80 code=11 char=ffff false false
+--------------- 451 --------------
+  Sat Apr 24 12:44:02 IST 2021
+ProcessKeyBinding 401 when=1619248442358 modifiers=80 code=11 char=ffff false false
+--------------- 452 --------------
+  Sat Apr 24 12:44:02 IST 2021
+ProcessKeyBinding 401 when=1619248442404 modifiers=80 code=11 char=ffff false false
+--------------- 453 --------------
+  Sat Apr 24 12:44:02 IST 2021
+ProcessKeyBinding 401 when=1619248442433 modifiers=80 code=11 char=ffff false false
+--------------- 454 --------------
+  Sat Apr 24 12:44:02 IST 2021
+ProcessKeyBinding 401 when=1619248442464 modifiers=80 code=11 char=ffff false false
+--------------- 455 --------------
+  Sat Apr 24 12:44:02 IST 2021
+ProcessKeyBinding 401 when=1619248442495 modifiers=80 code=11 char=ffff false false
+--------------- 456 --------------
+  Sat Apr 24 12:44:02 IST 2021
+ProcessKeyBinding 401 when=1619248442527 modifiers=80 code=11 char=ffff false false
+--------------- 457 --------------
+  Sat Apr 24 12:44:02 IST 2021
+ProcessKeyBinding 401 when=1619248442558 modifiers=80 code=11 char=ffff false false
+--------------- 458 --------------
+  Sat Apr 24 12:44:02 IST 2021
+ProcessKeyBinding 401 when=1619248442590 modifiers=80 code=11 char=ffff false false
+--------------- 459 --------------
+  Sat Apr 24 12:44:02 IST 2021
+ProcessKeyBinding 401 when=1619248442623 modifiers=80 code=11 char=ffff false false
+--------------- 460 --------------
+  Sat Apr 24 12:44:02 IST 2021
+ProcessKeyBinding 401 when=1619248442666 modifiers=80 code=11 char=ffff false false
+--------------- 461 --------------
+  Sat Apr 24 12:44:02 IST 2021
+ProcessKeyBinding 401 when=1619248442698 modifiers=80 code=11 char=ffff false false
+--------------- 462 --------------
+  Sat Apr 24 12:44:02 IST 2021
+ProcessKeyBinding 401 when=1619248442729 modifiers=80 code=11 char=ffff false false
+--------------- 463 --------------
+  Sat Apr 24 12:44:02 IST 2021
+ProcessKeyBinding 401 when=1619248442759 modifiers=80 code=11 char=ffff false false
+--------------- 464 --------------
+  Sat Apr 24 12:44:02 IST 2021
+ProcessKeyBinding 401 when=1619248442791 modifiers=80 code=11 char=ffff false false
+--------------- 465 --------------
+  Sat Apr 24 12:44:02 IST 2021
+ProcessKeyBinding 401 when=1619248442824 modifiers=80 code=11 char=ffff false false
+--------------- 466 --------------
+  Sat Apr 24 12:44:02 IST 2021
+ProcessKeyBinding 401 when=1619248442853 modifiers=80 code=11 char=ffff false false
+--------------- 467 --------------
+  Sat Apr 24 12:44:02 IST 2021
+ProcessKeyBinding 401 when=1619248442885 modifiers=80 code=11 char=ffff false false
+--------------- 468 --------------
+  Sat Apr 24 12:44:02 IST 2021
+ProcessKeyBinding 402 when=1619248442928 modifiers=0 code=11 char=ffff false false
+--------------- 469 --------------
+  Sat Apr 24 12:44:10 IST 2021
+ProcessKeyBinding 401 when=1619248450948 modifiers=80 code=11 char=ffff false false
+--------------- 470 --------------
+  Sat Apr 24 12:44:11 IST 2021
+Menu Activated: Edit | Properties | Object Properties...
+Currently highlighted: 
+    SPICE code
+--------------- 471 --------------
+  Sat Apr 24 12:44:11 IST 2021
+ProcessKeyBinding 400 when=1619248451149 modifiers=80 code=0 char=9 false false
+--------------- 472 --------------
+  Sat Apr 24 12:44:50 IST 2021
+ProcessKeyBinding 401 when=1619248490098 modifiers=80 code=11 char=ffff false false
+--------------- 473 --------------
+  Sat Apr 24 12:44:50 IST 2021
+Menu Activated: Edit | Properties | Object Properties...
+Currently highlighted: 
+    SPICE code
+--------------- 474 --------------
+  Sat Apr 24 12:44:50 IST 2021
+ProcessKeyBinding 400 when=1619248490240 modifiers=80 code=0 char=9 false false
+--------------- 475 --------------
+  Sat Apr 24 12:44:56 IST 2021
+ProcessKeyBinding 401 when=1619248496120 modifiers=80 code=11 char=ffff false false
+--------------- 476 --------------
+  Sat Apr 24 12:44:56 IST 2021
+Menu Activated: Edit | Properties | Object Properties...
+Currently highlighted: 
+    SPICE code
+--------------- 477 --------------
+  Sat Apr 24 12:44:56 IST 2021
+ProcessKeyBinding 400 when=1619248496289 modifiers=80 code=0 char=9 false false
+--------------- 478 --------------
+  Sat Apr 24 12:44:59 IST 2021
+Menu Activated: Edit | Selection | Select All
+Currently highlighted: 
+    SPICE code
+--------------- 479 --------------
+  Sat Apr 24 12:45:10 IST 2021
+ProcessKeyBinding 401 when=1619248510368 modifiers=80 code=11 char=ffff false false
+--------------- 480 --------------
+  Sat Apr 24 12:45:10 IST 2021
+Menu Activated: Edit | Properties | Object Properties...
+Currently highlighted: 
+    SPICE code
+--------------- 481 --------------
+  Sat Apr 24 12:45:10 IST 2021
+ProcessKeyBinding 400 when=1619248510463 modifiers=80 code=0 char=9 false false
+--------------- 482 --------------
+  Sat Apr 24 12:45:32 IST 2021
+ProcessKeyBinding 401 when=1619248532032 modifiers=80 code=11 char=ffff false false
+--------------- 483 --------------
+  Sat Apr 24 12:45:32 IST 2021
+ProcessKeyBinding 401 when=1619248532546 modifiers=80 code=11 char=ffff false false
+--------------- 484 --------------
+  Sat Apr 24 12:45:32 IST 2021
+ProcessKeyBinding 401 when=1619248532576 modifiers=80 code=11 char=ffff false false
+--------------- 485 --------------
+  Sat Apr 24 12:45:32 IST 2021
+ProcessKeyBinding 401 when=1619248532608 modifiers=80 code=11 char=ffff false false
+--------------- 486 --------------
+  Sat Apr 24 12:45:32 IST 2021
+ProcessKeyBinding 401 when=1619248532640 modifiers=80 code=11 char=ffff false false
+--------------- 487 --------------
+  Sat Apr 24 12:45:32 IST 2021
+ProcessKeyBinding 401 when=1619248532669 modifiers=80 code=11 char=ffff false false
+--------------- 488 --------------
+  Sat Apr 24 12:45:32 IST 2021
+ProcessKeyBinding 401 when=1619248532700 modifiers=80 code=11 char=ffff false false
+--------------- 489 --------------
+  Sat Apr 24 12:45:32 IST 2021
+ProcessKeyBinding 401 when=1619248532731 modifiers=80 code=11 char=ffff false false
+--------------- 490 --------------
+  Sat Apr 24 12:45:32 IST 2021
+ProcessKeyBinding 401 when=1619248532781 modifiers=80 code=11 char=ffff false false
+--------------- 491 --------------
+  Sat Apr 24 12:45:32 IST 2021
+ProcessKeyBinding 401 when=1619248532810 modifiers=80 code=11 char=ffff false false
+--------------- 492 --------------
+  Sat Apr 24 12:45:32 IST 2021
+ProcessKeyBinding 401 when=1619248532837 modifiers=80 code=11 char=ffff false false
+--------------- 493 --------------
+  Sat Apr 24 12:45:32 IST 2021
+ProcessKeyBinding 401 when=1619248532869 modifiers=80 code=11 char=ffff false false
+--------------- 494 --------------
+  Sat Apr 24 12:45:32 IST 2021
+ProcessKeyBinding 401 when=1619248532899 modifiers=80 code=11 char=ffff false false
+--------------- 495 --------------
+  Sat Apr 24 12:45:32 IST 2021
+ProcessKeyBinding 401 when=1619248532930 modifiers=80 code=11 char=ffff false false
+--------------- 496 --------------
+  Sat Apr 24 12:45:32 IST 2021
+ProcessKeyBinding 401 when=1619248532962 modifiers=80 code=11 char=ffff false false
+--------------- 497 --------------
+  Sat Apr 24 12:45:32 IST 2021
+ProcessKeyBinding 401 when=1619248532996 modifiers=80 code=11 char=ffff false false
+--------------- 498 --------------
+  Sat Apr 24 12:45:33 IST 2021
+ProcessKeyBinding 401 when=1619248533028 modifiers=80 code=11 char=ffff false false
+--------------- 499 --------------
+  Sat Apr 24 12:45:33 IST 2021
+ProcessKeyBinding 401 when=1619248533075 modifiers=80 code=11 char=ffff false false
+--------------- 500 --------------
+  Sat Apr 24 12:45:33 IST 2021
+ProcessKeyBinding 401 when=1619248533104 modifiers=80 code=11 char=ffff false false
+--------------- 501 --------------
+  Sat Apr 24 12:45:33 IST 2021
+ProcessKeyBinding 401 when=1619248533136 modifiers=80 code=11 char=ffff false false
+--------------- 502 --------------
+  Sat Apr 24 12:45:33 IST 2021
+ProcessKeyBinding 401 when=1619248533167 modifiers=80 code=11 char=ffff false false
+--------------- 503 --------------
+  Sat Apr 24 12:45:33 IST 2021
+ProcessKeyBinding 401 when=1619248533198 modifiers=80 code=11 char=ffff false false
+--------------- 504 --------------
+  Sat Apr 24 12:45:33 IST 2021
+ProcessKeyBinding 402 when=1619248533219 modifiers=0 code=11 char=ffff false false
+--------------- 505 --------------
+  Sat Apr 24 12:45:34 IST 2021
+ProcessKeyBinding 401 when=1619248534482 modifiers=80 code=11 char=ffff false false
+--------------- 506 --------------
+  Sat Apr 24 12:45:34 IST 2021
+Menu Activated: Edit | Properties | Object Properties...
+Currently highlighted: 
+    SPICE code
+--------------- 507 --------------
+  Sat Apr 24 12:45:34 IST 2021
+ProcessKeyBinding 400 when=1619248534608 modifiers=80 code=0 char=9 false false
+--------------- 508 --------------
+  Sat Apr 24 12:45:38 IST 2021
+ProcessKeyBinding 402 when=1619248538923 modifiers=0 code=a char=a false false
+--------------- 509 --------------
+  Sat Apr 24 12:45:39 IST 2021
+ProcessKeyBinding 401 when=1619248539609 modifiers=80 code=11 char=ffff false false
+--------------- 510 --------------
+  Sat Apr 24 12:45:40 IST 2021
+ProcessKeyBinding 401 when=1619248540125 modifiers=80 code=11 char=ffff false false
+--------------- 511 --------------
+  Sat Apr 24 12:45:40 IST 2021
+ProcessKeyBinding 401 when=1619248540156 modifiers=80 code=11 char=ffff false false
+--------------- 512 --------------
+  Sat Apr 24 12:45:40 IST 2021
+ProcessKeyBinding 401 when=1619248540186 modifiers=80 code=11 char=ffff false false
+--------------- 513 --------------
+  Sat Apr 24 12:45:40 IST 2021
+ProcessKeyBinding 401 when=1619248540218 modifiers=80 code=11 char=ffff false false
+--------------- 514 --------------
+  Sat Apr 24 12:45:40 IST 2021
+ProcessKeyBinding 401 when=1619248540249 modifiers=80 code=11 char=ffff false false
+--------------- 515 --------------
+  Sat Apr 24 12:45:40 IST 2021
+ProcessKeyBinding 401 when=1619248540282 modifiers=80 code=11 char=ffff false false
+--------------- 516 --------------
+  Sat Apr 24 12:45:40 IST 2021
+ProcessKeyBinding 401 when=1619248540310 modifiers=80 code=11 char=ffff false false
+--------------- 517 --------------
+  Sat Apr 24 12:45:40 IST 2021
+ProcessKeyBinding 401 when=1619248540340 modifiers=80 code=11 char=ffff false false
+--------------- 518 --------------
+  Sat Apr 24 12:45:40 IST 2021
+ProcessKeyBinding 401 when=1619248540386 modifiers=80 code=11 char=ffff false false
+--------------- 519 --------------
+  Sat Apr 24 12:45:40 IST 2021
+ProcessKeyBinding 401 when=1619248540418 modifiers=80 code=11 char=ffff false false
+--------------- 520 --------------
+  Sat Apr 24 12:45:40 IST 2021
+ProcessKeyBinding 401 when=1619248540450 modifiers=80 code=11 char=ffff false false
+--------------- 521 --------------
+  Sat Apr 24 12:45:40 IST 2021
+ProcessKeyBinding 401 when=1619248540482 modifiers=80 code=11 char=ffff false false
+--------------- 522 --------------
+  Sat Apr 24 12:45:40 IST 2021
+ProcessKeyBinding 402 when=1619248540496 modifiers=0 code=11 char=ffff false false
+--------------- 523 --------------
+  Sat Apr 24 12:45:48 IST 2021
+Menu Activated: File | Save Library
+--------------- 524 --------------
+  Sat Apr 24 12:45:50 IST 2021
+Menu Activated: Tools | DRC | Check Hierarchically
+--------------- 525 --------------
+  Sat Apr 24 12:45:59 IST 2021
+Menu Activated: Tools | Simulation (Spice) | Write Spice Deck...
+--------------- 526 --------------
+  Sat Apr 24 12:51:15 IST 2021
+ProcessKeyBinding 401 when=1619248875033 modifiers=200 code=12 char=ffff false false
+--------------- 527 --------------
+  Sat Apr 24 12:51:33 IST 2021
+ProcessKeyBinding 401 when=1619248893005 modifiers=80 code=11 char=ffff false false
+--------------- 528 --------------
+  Sat Apr 24 12:51:33 IST 2021
+ProcessKeyBinding 401 when=1619248893519 modifiers=80 code=11 char=ffff false false
+--------------- 529 --------------
+  Sat Apr 24 12:51:33 IST 2021
+ProcessKeyBinding 402 when=1619248893535 modifiers=0 code=11 char=ffff false false
+--------------- 530 --------------
+  Sat Apr 24 12:51:34 IST 2021
+ProcessKeyBinding 401 when=1619248894439 modifiers=80 code=11 char=ffff false false
+--------------- 531 --------------
+  Sat Apr 24 12:51:34 IST 2021
+ProcessKeyBinding 401 when=1619248894943 modifiers=80 code=11 char=ffff false false
+--------------- 532 --------------
+  Sat Apr 24 12:51:34 IST 2021
+ProcessKeyBinding 401 when=1619248894986 modifiers=80 code=11 char=ffff false false
+--------------- 533 --------------
+  Sat Apr 24 12:51:35 IST 2021
+ProcessKeyBinding 401 when=1619248895006 modifiers=80 code=11 char=ffff false false
+--------------- 534 --------------
+  Sat Apr 24 12:51:35 IST 2021
+ProcessKeyBinding 401 when=1619248895038 modifiers=80 code=11 char=ffff false false
+--------------- 535 --------------
+  Sat Apr 24 12:51:35 IST 2021
+ProcessKeyBinding 401 when=1619248895077 modifiers=80 code=11 char=ffff false false
+--------------- 536 --------------
+  Sat Apr 24 12:51:35 IST 2021
+ProcessKeyBinding 401 when=1619248895120 modifiers=80 code=11 char=ffff false false
+--------------- 537 --------------
+  Sat Apr 24 12:51:35 IST 2021
+ProcessKeyBinding 401 when=1619248895141 modifiers=80 code=11 char=ffff false false
+--------------- 538 --------------
+  Sat Apr 24 12:51:35 IST 2021
+ProcessKeyBinding 401 when=1619248895185 modifiers=80 code=11 char=ffff false false
+--------------- 539 --------------
+  Sat Apr 24 12:51:35 IST 2021
+ProcessKeyBinding 401 when=1619248895205 modifiers=80 code=11 char=ffff false false
+--------------- 540 --------------
+  Sat Apr 24 12:51:35 IST 2021
+ProcessKeyBinding 401 when=1619248895248 modifiers=80 code=11 char=ffff false false
+--------------- 541 --------------
+  Sat Apr 24 12:51:35 IST 2021
+ProcessKeyBinding 401 when=1619248895269 modifiers=80 code=11 char=ffff false false
+--------------- 542 --------------
+  Sat Apr 24 12:51:35 IST 2021
+ProcessKeyBinding 401 when=1619248895312 modifiers=80 code=11 char=ffff false false
+--------------- 543 --------------
+  Sat Apr 24 12:51:35 IST 2021
+ProcessKeyBinding 401 when=1619248895354 modifiers=80 code=11 char=ffff false false
+--------------- 544 --------------
+  Sat Apr 24 12:51:35 IST 2021
+ProcessKeyBinding 401 when=1619248895371 modifiers=80 code=11 char=ffff false false
+--------------- 545 --------------
+  Sat Apr 24 12:51:35 IST 2021
+ProcessKeyBinding 402 when=1619248895384 modifiers=0 code=11 char=ffff false false
+--------------- 546 --------------
+  Sat Apr 24 12:51:36 IST 2021
+ProcessKeyBinding 401 when=1619248896622 modifiers=80 code=11 char=ffff false false
+--------------- 547 --------------
+  Sat Apr 24 12:51:37 IST 2021
+ProcessKeyBinding 401 when=1619248897135 modifiers=80 code=11 char=ffff false false
+--------------- 548 --------------
+  Sat Apr 24 12:51:37 IST 2021
+ProcessKeyBinding 401 when=1619248897166 modifiers=80 code=11 char=ffff false false
+--------------- 549 --------------
+  Sat Apr 24 12:51:37 IST 2021
+ProcessKeyBinding 401 when=1619248897198 modifiers=80 code=11 char=ffff false false
+--------------- 550 --------------
+  Sat Apr 24 12:51:37 IST 2021
+ProcessKeyBinding 401 when=1619248897230 modifiers=80 code=11 char=ffff false false
+--------------- 551 --------------
+  Sat Apr 24 12:51:37 IST 2021
+ProcessKeyBinding 401 when=1619248897262 modifiers=80 code=11 char=ffff false false
+--------------- 552 --------------
+  Sat Apr 24 12:51:37 IST 2021
+ProcessKeyBinding 401 when=1619248897293 modifiers=80 code=11 char=ffff false false
+--------------- 553 --------------
+  Sat Apr 24 12:51:37 IST 2021
+ProcessKeyBinding 401 when=1619248897324 modifiers=80 code=11 char=ffff false false
+--------------- 554 --------------
+  Sat Apr 24 12:51:37 IST 2021
+ProcessKeyBinding 401 when=1619248897355 modifiers=80 code=11 char=ffff false false
+--------------- 555 --------------
+  Sat Apr 24 12:51:37 IST 2021
+ProcessKeyBinding 402 when=1619248897355 modifiers=0 code=11 char=ffff false false
+--------------- 556 --------------
+  Sat Apr 24 12:51:40 IST 2021
+ProcessKeyBinding 401 when=1619248900588 modifiers=0 code=20c char=ffff false false
+--------------- 557 --------------
+  Sat Apr 24 12:51:40 IST 2021
+ProcessKeyBinding 401 when=1619248900623 modifiers=40 code=10 char=ffff false false
+--------------- 558 --------------
+  Sat Apr 24 12:51:40 IST 2021
+ProcessKeyBinding 402 when=1619248900883 modifiers=0 code=10 char=ffff false false
+--------------- 559 --------------
+  Sat Apr 24 12:51:40 IST 2021
+ProcessKeyBinding 402 when=1619248900914 modifiers=0 code=20c char=ffff false false
+--------------- 560 --------------
+  Sat Apr 24 12:53:01 IST 2021
+Menu Activated: File | Save Library
+--------------- 561 --------------
+  Sat Apr 24 12:53:03 IST 2021
+Menu Activated: File | Close Library
+--------------- 562 --------------
+  Sat Apr 24 12:53:07 IST 2021
+Menu Activated: File | Quit
