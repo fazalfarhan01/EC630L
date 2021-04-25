@@ -1,7 +1,7 @@
 *** SPICE deck for cell nor{lay} from library Digital
 *** Created on Sat Apr 24, 2021 14:15:00
-*** Last revised on Sat Apr 24, 2021 14:27:17
-*** Written on Sat Apr 24, 2021 14:27:34 by Electric VLSI Design System, version 9.07
+*** Last revised on Sat Apr 24, 2021 14:27:45
+*** Written on Sat Apr 24, 2021 14:44:39 by Electric VLSI Design System, version 9.07
 *** Layout tech: mocmos, foundry MOSIS
 *** UC SPICE *** , MIN_RESIST 4.0, MIN_CAPAC 0.1FF
 *** WARNING: no ground connection for N-transistor wells in cell 'nor{lay}'
