@@ -81,43 +81,27 @@ Evss||D5G2;|conn@1|a|P
 X
 
 # Cell CG-amp;1{lay}
-CCG-amp;1{lay}||mocmos|1619257418729|1622458375804||DRC_last_good_drc_area_date()G1622458376787|DRC_last_good_drc_bit()I18|DRC_last_good_drc_date()G1622458376787
+CCG-amp;1{lay}||mocmos|1619257418729|1622459049133||DRC_last_good_drc_area_date()G1622459035918
 Ngeneric:Facet-Center|art@0||0|0||||AV
-NMetal-1-P-Active-Con|contact@0||-18|18.5||||
-NMetal-1-P-Active-Con|contact@1||11.5|18.5||||
-NMetal-1-N-Active-Con|contact@2||-4|-13.5||17||
-NMetal-1-N-Active-Con|contact@3||5|-13.5||17||
-NMetal-1-Polysilicon-1-Con|contact@8||0.5|-32||||
-NMetal-1-Polysilicon-1-Con|contact@9||-3|8||||
-NN-Transistor|nmos@0||0.5|-13.5|19||R||SIM_spice_model(D5G1;)SNMOS
-Ngeneric:Invisible-Pin|pin@7||-47|24.5|||||SIM_spice_card(D5G3;)S[".include D:\\Electric\\C5_models.txt ",vdd vdd 0 DC 5,vss vss 0 DC 0,vb vb 0 DC 5,vin vin 0 sin(0.5 0.05 1k 0 0 0 50),.dc vb 0 5 1m,#vin vin 0 sin(1.15 0.1 1k 0 0 0 0),#.trans 0 5m,#vin vin 0 ac sin(1.15 0.1 1k 0 0 0 0),#.ac dec 100 100 10G]
-NMetal-1-Pin|pin@11||11.5|27||||
-NMetal-1-Pin|pin@18||-18|-13||||
-NMetal-1-Pin|pin@19||-4|-13||||
-NMetal-1-Pin|pin@20||-18|8||||
-NMetal-1-Pin|pin@21||-18|-2||||
-NMetal-1-Pin|pin@22||-18|-2||||
-NP-Transistor|pmos@0||-3|18.5|1|20|R||SIM_spice_model(D5G1;)SPMOS
-NMetal-1-P-Well-Con|substr@1||14|-13.5||17||
-AN-Active|net@2|||S1800|contact@2||-4|-13.5|nmos@0|diff-top|-3.25|-13.5
-AN-Active|net@3|||S0|contact@3||5|-13.5|nmos@0|diff-bottom|4.25|-13.5
-APolysilicon-1|net@41|||S2700|contact@8||0.5|-32|nmos@0|poly-left|0.5|-26.5
-AMetal-1|net@53||1|S1800|pin@18||-18|-13|pin@19||-4|-13
-AMetal-1|net@54||1|S2700|contact@2||-4|-13.5|pin@19||-4|-13
-APolysilicon-1|net@55|||S2700|contact@9||-3|8|pmos@0|poly-left|-3|14.5
-AMetal-1|net@56||1|S900|contact@0||-18|18.5|pin@20||-18|8
-AMetal-1|net@58||1|S0|contact@9||-3|8|pin@20||-18|8
-AP-Active|net@60|||S0|contact@1||11.5|18.5|pmos@0|diff-bottom|10.5|18.5
-AP-Active|net@62|||S1800|contact@0||-18|18.5|pmos@0|diff-top|-17|18.5
-AMetal-1|net@78||1|S2700|contact@1||11.5|18.5|pin@11||11.5|27
-AMetal-1|net@79||1|S900|pin@20||-18|8|pin@22||-18|-2
-AMetal-1|net@80||1|S900|pin@22||-18|-2|pin@18||-18|-13
-AMetal-1|net@81|||S1800|pin@21||-18|-2|pin@22||-18|-2
-Evb||D5G2;|contact@8||P
-Evdd||D5G2;|pin@11||P
-Evin||D5G2;|contact@3||I
-Evout||D5G2;|pin@21||O
-Evss||D5G2;|substr@1||P
+NMetal-1-P-Active-Con|contact@0||-36|20||||
+NMetal-1-P-Active-Con|contact@1||-9|20||||
+NMetal-1-N-Active-Con|contact@2||-8.5|-19||17||
+NMetal-1-N-Active-Con|contact@3||-17.5|-19||17||
+NN-Transistor|nmos@0||-13|-19|19||R||SIM_spice_model(D5G1;)SNMOS
+NMetal-1-Pin|pin@0||-36|30.5||||
+NMetal-1-Pin|pin@5||-36|30.5||||
+NMetal-1-Pin|pin@6||-45|30.5||||
+NP-Transistor|pmos@1||-22.5|20|1|18|R||SIM_spice_model(D5G1;)SPMOS
+NMetal-1-N-Well-Con|well@0||-45|20||||
+AP-Active|net@0|||S0|pmos@1|diff-top|-35.5|20|contact@0||-36|20
+AP-Active|net@1|||S0|contact@1||-9|20|pmos@1|diff-bottom|-10|20
+AN-Active|net@2|||S1800|contact@3||-17.5|-19|nmos@0|diff-top|-16.75|-19
+AN-Active|net@3|||S0|contact@2||-8.5|-19|nmos@0|diff-bottom|-9.25|-19
+AMetal-1|net@10||1|S2700|contact@0||-36|20|pin@5||-36|30.5
+AMetal-1|net@11|||S0|pin@0||-36|30.5|pin@5||-36|30.5
+AMetal-1|net@12||1|S2700|well@0||-45|20|pin@6||-45|30.5
+AMetal-1|net@13||1|S1800|pin@6||-45|30.5|pin@5||-36|30.5
+Evdd||D5G2;|pin@0||P
 X
 
 # Cell CG-amp;1{sch}
