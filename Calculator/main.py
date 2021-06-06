@@ -160,9 +160,10 @@ class Amplifiers():
             ["Volateg at M1 (Vx)", float(Vx)],
             ["Voltage accross M3 & M4 (Vds3)", float(Vds3)],
             ["(W/L)3 - (W/L)4", float(wl3)],
-            ["Trans-conductance (gm1)", float(gm1)],
+            ["Trans-conductance (gm1)", "{:.3E}".format(float(gm1))],
             ["(W/L)1 - (W/L)2", float(wl1)],
-            ["G-S Voltage of M1 & M2 (Vgs1)", float(Vgs1)],
+            ["G-S Voltage of M1 & M2 (Vgs1)", "{:.3E}".format(float(Vgs1))],
+            ["Drain - Source Voltage of M5 (Vds5)", "{:.3E}".format(Vds5)],
             ["(W/L)5 - (W/L)8", float(wl5)]
         ]
         table = SingleTable(data, "Differential Amplifier")
@@ -185,3 +186,5 @@ class Amplifiers():
 if __name__ == "__main__":
     amps = Amplifiers()
     amps.start()
+
+    input("Press enter to exit...")
