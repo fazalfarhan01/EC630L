@@ -81,27 +81,8 @@ Evss||D5G2;|conn@1|a|P
 X
 
 # Cell CG-amp;1{lay}
-CCG-amp;1{lay}||mocmos|1619257418729|1622459049133||DRC_last_good_drc_area_date()G1622459035918
+CCG-amp;1{lay}||mocmos|1619257418729|1622823194410||DRC_last_good_drc_area_date()G1622459035918
 Ngeneric:Facet-Center|art@0||0|0||||AV
-NMetal-1-P-Active-Con|contact@0||-36|20||||
-NMetal-1-P-Active-Con|contact@1||-9|20||||
-NMetal-1-N-Active-Con|contact@2||-8.5|-19||17||
-NMetal-1-N-Active-Con|contact@3||-17.5|-19||17||
-NN-Transistor|nmos@0||-13|-19|19||R||SIM_spice_model(D5G1;)SNMOS
-NMetal-1-Pin|pin@0||-36|30.5||||
-NMetal-1-Pin|pin@5||-36|30.5||||
-NMetal-1-Pin|pin@6||-45|30.5||||
-NP-Transistor|pmos@1||-22.5|20|1|18|R||SIM_spice_model(D5G1;)SPMOS
-NMetal-1-N-Well-Con|well@0||-45|20||||
-AP-Active|net@0|||S0|pmos@1|diff-top|-35.5|20|contact@0||-36|20
-AP-Active|net@1|||S0|contact@1||-9|20|pmos@1|diff-bottom|-10|20
-AN-Active|net@2|||S1800|contact@3||-17.5|-19|nmos@0|diff-top|-16.75|-19
-AN-Active|net@3|||S0|contact@2||-8.5|-19|nmos@0|diff-bottom|-9.25|-19
-AMetal-1|net@10||1|S2700|contact@0||-36|20|pin@5||-36|30.5
-AMetal-1|net@11|||S0|pin@0||-36|30.5|pin@5||-36|30.5
-AMetal-1|net@12||1|S2700|well@0||-45|20|pin@6||-45|30.5
-AMetal-1|net@13||1|S1800|pin@6||-45|30.5|pin@5||-36|30.5
-Evdd||D5G2;|pin@0||P
 X
 
 # Cell CG-amp;1{sch}
